@@ -172,9 +172,8 @@ service you require.
 	<div class="col-lg-8">
 		<div class="common-heading ptag">
 			
-			<h2  class="text-radius text-light text-animation bg-b">How do clients benefit from early consulting?</h2>
-			<p class="mb30">Clients, who work with consultants, understand much better the early stages of forming a
-business and venture.</p>
+			<h2>How do clients benefit from early consulting?</h2>
+			<p class="mb20">Clients, who work with consultants, understand much better the early stages of forming a business and venture.</p>
 		</div>
 	</div>
 </div>
@@ -247,7 +246,7 @@ components of the business.  </p>
 <div class="col-lg-7 mb20" style="margin-top: 2%">
 <div class="text-l service-desc- pr25">
 
-	<h2 style="font-size:30px" class="text-radius text-light text-animation bg-b">Small Business Startup Consultant</h2>
+	<h2 style="font-size:30px">Small Business Startup Consultant</h2>
 	
 <p style="text-align: justify">Starting a new business comes with a vast amount of steps. These are steps, which have to
 be not just taken but also known about in advance. As an investor and entrepreneur many
@@ -274,7 +273,7 @@ and practical solutions.
 <div class="col-lg-7 mb20" style="margin-top: 2%">
 <div class="text-l service-desc- pr25">
 
-	<h2 style="font-size:30px" class="text-radius text-light text-animation bg-b">Startup Consulting Benefits</h2>
+	<h2 style="font-size:30px">Startup Consulting Benefits</h2>
 	
 <p style="text-align: justify">Through experienced consultants who understand the isolated tasks necessary, a client can
 rely on a professional to manage a critical step in the early stages and focus on other items
@@ -299,7 +298,7 @@ Consultants breakdown the individual tasks and responsibilities, source vendors 
 	<div class="col-lg-8">
 		<div class="common-heading ptag">
 			
-			<h2 style="font-size: 36px;" class="text-radius text-light text-animation bg-b">Launch Your Brand With Us.</h2>
+			<h2 style="font-size: 36px;">Launch Your Brand With Us.</h2>
 			<p class="mb30">While you are willing to launch your own business, there are a vast amount of
 responsibilities you will have to shoulder and give up a lot of things you like to do.</p>
 		</div>
@@ -369,7 +368,8 @@ based on your goals to keep you profitable for a long run.</p>
         <div class="col-lg-6">
           <div class="common-heading">
             
-            <h2 class="mb30 text-radius text-light text-animation bg-b">Our Unique Approach</h2>
+            <h2 class="mb20">Our Unique Approach</h2>
+			  <p>We follow an extremely detailed process to serve you with your needs and deliver the best.</p>
           </div>
         </div>
       </div>

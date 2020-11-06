@@ -213,7 +213,7 @@ React, which is just 2.2 kb (gzipped), isn’t a framework but a library that is
 	<div class="col-lg-8">
 		<div class="common-heading ptag">
 			
-			<h2 class="mb30 text-radius text-light text-animation bg-b">Why ReactJS Development?</h2>
+			<h2 class="mb30">Why ReactJS Development?</h2>
 			<p>Here are the reasons that make ReactJS our first choice when it comes to building ‘beauty with brilliance’ apps</p>
 		</div>
 	</div>
@@ -239,15 +239,7 @@ Historically, frontend development wasn't very complex but with applications bec
 			<p style="text-align:justify;">Libraries like lodash coupled with React helps in creating fast-loading apps that are able to handle a huge amount of data manipulation which otherwise would be very inefficient. Hosted mostly on CDNs, React applications are fast to load as well.</p>
 		</div>
 	</div>
-	<div class="media mt40">
-		<img src="images/icons/web-development-1.png" alt="icon">
-		<div class="media-body">
-			<h4>Flexible with Other Frameworks</h4>
-<p style="text-align:justify;">
-Being a library without state management and routing, React plays very well with other frameworks such as Ruby on Rails, ExpressJS and other frameworks to better manage their frontend requirements.</p>
-
-		</div>
-	</div>
+	
 	<div class="media mt40">
 		<img src="images/icons/solution.png" alt="icon">
 		<div class="media-body">
@@ -256,7 +248,15 @@ Being a library without state management and routing, React plays very well with
 React is a library and unlike full-fledged frameworks such as Angular, it doesn’t handle a lot of stuff and thus the learning curve isn’t high. Because it’s so modular - bad decisions are easy to make. Reach out to us so that you don’t make the same mistakes.</p>
 		</div>
 	</div>
-	
+	<div class="media mt40">
+		<img src="images/icons/collabotation.png" alt="icon">
+		<div class="media-body">
+			<h4>Ever-evolving Community</h4>
+<p style="text-align:justify;">
+React was launched in 2013, now 7 years old - the community has grown rapidly and is now mature as well. The number of developers available as well as contributions to open source have made it the choice of development by millions.</p>
+
+		</div>
+	</div>
 	
 </div>
 </div> 
@@ -290,15 +290,14 @@ React updates and upgrades are frequent but they usually do not contain breaking
 		</div>
 	</div>
 	<div class="media mt40">
-		<img src="images/icons/collabotation.png" alt="icon">
+		<img src="images/icons/web-development-1.png" alt="icon">
 		<div class="media-body">
-			<h4>Ever-evolving Community</h4>
+			<h4>Flexible with Other Frameworks</h4>
 <p style="text-align:justify;">
-React was launched in 2013, now 7 years old - the community has grown rapidly and is now mature as well. The number of developers available as well as contributions to open source have made it the choice of development by millions.</p>
+Being a library without state management and routing, React plays very well with other frameworks such as Ruby on Rails, ExpressJS and other frameworks to better manage their frontend requirements.</p>
 
 		</div>
 	</div>
-	
 </div>
 
 </div>
@@ -313,7 +312,7 @@ React was launched in 2013, now 7 years old - the community has grown rapidly an
         <div class="col-lg-6">
           <div class="common-heading">
            
-            <h2 class="mb20 text-radius text-light text-animation bg-b">Our Offerings</h2>
+            <h2 class="mb20 ">Our Offerings</h2>
 			  <p>We provide innovative web application development services with React JS development environment through an array of services</p>
           </div>
         </div>
@@ -384,8 +383,8 @@ React was launched in 2013, now 7 years old - the community has grown rapidly an
 	<div class="col-lg-8">
 		<div class="common-heading ptag">
 			
-			<h2 class="text-radius text-light text-animation bg-b">Our Process</h2>
-			
+			<h2 >Our Process</h2>
+			<p>We follow an extremely detailed process to serve you with your needs and deliver the best.</p>
 		</div>
 	</div>
 </div>

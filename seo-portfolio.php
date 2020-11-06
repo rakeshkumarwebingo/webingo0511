@@ -1,20 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
   <head>
-    <meta charset="utf-8"/>
-    <title>Webingo | Best Web development company in Kolkata India</title>  
-<meta name="description" content= "Best graphic designing, web development, app development and digital marketing solution in Kolkata India" />
-<meta name="robots" content= "index, follow">
-    <meta name="keywords" content="Best graphic designing, web development, app development and digital marketing solution">
-
-		<meta property="og:image" content="https://webingo.in/images/white-logo.png" />
-		<meta property="fb:app_id" content="666956320614810" />
-		<meta property="og:url" content="https://webingo.in/index.php" />
-		<meta property="og:title" content="Webingo | Best Web development company in Kolkata India" />
-
-<meta name="author" content="Webingo">
-    <!--website-favicon-->
-    <link href="images/favicon.png" rel="icon">
+    <?php include 'meta.php'; ?>
     <!--plugin-css-->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/plugin.min.css" rel="stylesheet">   
@@ -23,219 +10,117 @@
     <!-- template-style-->
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
-	<link href="css/sideform.css" rel="stylesheet">
+	  <link href="css/sideform.css" rel="stylesheet">
 	  <link href="css/breadcum-form.css" rel="stylesheet">
-	  <!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164733026-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'UA-164733026-1');
-	</script>
-	  
 	  <style>
- @media (min-width: 320px) and (max-width: 765px){
-.hide {
-	 display:none;
- }
-
-}
- @media (min-width: 320px) and (max-width: 765px){
-.lm {
-	 margin-left: 0px;
- }
+		  @media (min-width: 320px) and (max-width: 765px){
+   .hide {
+         display:none;
+	 }
 			  
 }
-.s-card-icon-large {
-    width: 250px;
+		  	  @media (min-width: 320px) and (max-width: 765px){
+   .lm {
+         margin-left: 0px;
+	 }
+			  
 }
-th {
-    text-align: inherit;
-    padding-bottom: 35px;
-}
-td{
-  padding-left: 3px;
-}
-tbody{
-  font-family: sans-serif;
-}
-		    @media screen and (min-width: 1370px){
-				.hero-card-web1 {
-					position: relative;
-					overflow: hidden;
-					padding-top: 82px;
-					padding-bottom: 72px;
-					height: 65vh;
-					align-items: center;
-					display: flex;
-					margin-left: -150px
-				}
-				.headerclient {
-					padding-top: 14px;
-					padding-bottom: 0px;
-				}
-				.computer{
-					margin-left: -240px;
-				}
+			.box:hover{
+				box-shadow: 10px 10px 10px  #595959;
 			}
-			@media screen and (max-width: 1370px){
-				.image-sr-mm1{
-					width: 100%;
-					height: 130px;
-					padding-top: 7px;
-				}
-				.pb1{
-					padding-top: 7px;
-				}
-				.computer{
-					margin-left: -120px;
-				}
-			}
-			.img-fluid {
-    max-width: 122%;
-    height: auto;
+		  @media only screen and (max-width: 800px) {
+  #no-table table, #no-table thead, #no-table tbody, #no-table th, #no-table td, #no-table tr {
+    display: block;
+  }
+
+  #no-table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  #no-table tr {
+    border: 0px solid #ccc;
+  }
+
+  #no-table td {
+    border: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    padding-left: 50%;
+    white-space: normal;
+    text-align: left;
+  }
+
+  #no-table td:before {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 50%;
+    padding-right: 10px;
+    white-space: nowrap;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  #no-table td:before {
+    content: attr(data-title);
+  }
 }
+.table-bordered td, .table-bordered th {
+    border: 0px solid #dee2e6;
+}
+.table-bordered thead td, .table-bordered thead th {
+    border-bottom-width: 0px;
+	width: 2px;
+}
+.table-bordered {
+    border: 0px solid #dee2e6;
+}
+		  .thsize{
+			  font-weight: 100;
+		  }
 	  </style>
-	  
   </head>
   <body>
        		<!--Start Header -->
 		  
 		 <?php include 'header.php'; ?>
-
-  <!--Breadcrumb Area-->
- <!-- <section class="breadcrumb-area pink banner-2" style="padding-bottom: 0px">
-    <div class="text-block">
-      <div class="container">
-        <div class="row">
-          
-            <div class="col-sm-6 col-xs-4 tabbanrt" >
-				<div class="banner_pic">
-					<picture>
-						<h1 style="text-align: left;color: #fff;font-weight: 500">Software development from <strong>conception</strong> to <strong>delivery</strong></h1><hr>
-						<h4  style="text-align: left;color: #fff;font-weight: 300">
-							Sharing our <strong>expertise and passion</strong> to build <strong>solutions</strong> that <strong>empower your business</strong>				</h4>
-					</picture>
-				</div>
-			</div>
-			 <!--<div class="col-sm-3 col-xs-4 tabbanrt" style="margin-top: 4%">
-				<div class="service-sec-list ">
-					<img src="images/icons/tech.svg" alt="service">
-					<h5 class="mb10" style="color: white">Trending Technologies</h5>
-					<ul class="-service-list">
-						<li > <a href="#" style="color: white">React.JS </a> </li>
-						<li > <a href="#" style="color: white">Node.JS </a> </li>
-						<li > <a href="#" style="color: white"> Angular.JS </a></li>
-					</ul>
-					<p style="color: white">Lorem Ipsum is text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500.</p>
-				 </div>   
-			</div>-->
-			<!--<div class="col-sm-2 col-xs-4 tabbanrt hide" style="margin-left: -97px;margin-right: 95px">
-			  <svg class="svg1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 563.3 402.7" style="width: min-content;
-    margin-top: 179px;">
-				<g id="Layer_2" data-name="Layer 2">
-				<g id="updated">
-				<path id="DCSL_logo" class="cover-logo" d="M559.9,278.1c0.1-32.2-5.6-64.2-16.8-94.5c-1.3-3.2-2.4-6.8-4.1-10c-7.8-17-24.1-24.1-40-17.6
-				s-23.5,22.7-16.8,40c10.4,26.8,16.2,54.2,16.2,82.1l0,0c0,11.6-9.4,21-21,21c-11.6,0-21-9.4-21-21l0,0c0.2-64.9,0-130,0-195.1
-				c0-19.7-13.2-34.6-30.3-34.3c-17.6,0.3-30.3,14.1-30.5,34.1v61.7c-4.1-2.7-6-4.1-7.8-5.1c-37.3-27.9-79-38.9-125.5-34.9
-				c-83.3,7-154.4,83.3-155.8,167.6c0,2,0,4.1,0,6.1h-0.1c0,11.5-9.4,20.9-20.9,20.9s-20.9-9.4-20.9-20.9l0,0
-				c0-12.3,1.2-24.5,3.3-36.6C91,115.4,208.1,40,333,67.8c4.8,1.2,9.7,1.8,14.6,1.6c14.1-1.1,25.7-12.2,27.6-25.5
-				c2.2-16.2-5.9-29.4-22.2-34C317.6-0.3,281.4-2.5,244.9,2.7C104.3,22.1,3.3,141.6,3.5,278.1H0v124.7h563.3V278.1H559.9z M280,391.5
-				c-60.3-0.3-111.1-50.6-112.7-110.6l0,0c0-0.8,0-1.6,0-2.4c0-0.1,0-0.3,0-0.4l0,0c0-62.3,51.8-113.4,114.6-113.4
-				S395.2,215,395.5,278.1l0,0c0,0.3,0,0.6,0,1c0,0.6,0,1.2,0,1.9l0,0C394.2,342.7,343.5,391.8,280,391.5z" style="fill:#f5f4f4"></path>
-				</g>
-				</g>
-				</svg>
-			</div>
-				<div class="col-lg-4 col-xs-4 ">
-				  <div class="itm-media-object lm ">
-					<div class="media" >
-					  <img class="bullet__logo" src="https://www.dcslsoftware.com/wpcms/wp-content/uploads/2020/03/dcsl-people.svg" style="width: 40px;background: transparent;">
-					  <div class="media-body">
-						<h6 class="h61 ">100+ software developers</h6>
-
-					  </div>
-					</div>
-					<div class="media " >
-					  <img class="bullet__logo" src="https://www.dcslsoftware.com/wpcms/wp-content/uploads/2020/03/dcsl-uk-based.svg" style="width: 40px;background: transparent;">
-					  <div class="media-body">
-						<h6 class="h61 ">UK based, permanent employees</h6>
-
-					  </div>
-					</div>
-					<div class="media " >
-					  <img class="bullet__logo" src="https://www.dcslsoftware.com/wpcms/wp-content/uploads/2020/03/dcsl-competitve.svg" style="width: 40px;background: transparent;">
-					  <div class="media-body">
-						<h6 class="h61 ">Competitive day rates</h6>
-
-					  </div>
-					</div>
-					   <div class="media " >
-					  <img class="bullet__logo" src="https://www.dcslsoftware.com/wpcms/wp-content/uploads/2020/03/dcsl-blazing.svg" style="width: 40px;background: transparent;">
-					  <div class="media-body">
-						<h6 class="h61 ">Rapid software delivery</h6>
-
-					  </div>
-					</div>
-					   <div class="media " >
-					  <img class="bullet__logo" src="https://www.dcslsoftware.com/wpcms/wp-content/uploads/2020/03/dcsl-awards.svg" style="width: 40px;background: transparent;">
-					  <div class="media-body">
-						<h6 class="h61 ">Multi-award winning</h6>
-
-					  </div>
-					</div>
-					   <div class="media " >
-					  <img class="bullet__logo" src="https://www.dcslsoftware.com/wpcms/wp-content/uploads/2020/03/dcsl-cloud.svg" style="width: 40px;background: transparent;">
-					  <div class="media-body">
-						<h6 class="h61 "> Web, Mobile, Cloud & Desktop</h6>
-
-					  </div>
-					</div>
-
-				  </div>
-				</div>
-          </div>
-      </div>
-    </div>
-  </section>-->
-	    <!--Breadcrumb Area-->
-  <!--Start Hero-->
+ <!--Start Hero-->
 <section class="hero-card-web hero-card-web1 hero-card-web2  bg-gradient12 shape-bg3">
 <div class="hero-main-rp container-fluid">
 <div class="row">
 <div class="col-lg-4">
-<div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;margin-top:10%">
-<img src="images/demo1.png" alt="image" class="img-fluid no-shadow">
+<div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;margin-top:10%" >
+<img src="images/image2/hybrid_bred.png" alt="image" class="img-fluid no-shadow">
 </div>
 </div>
-<div class="col-lg-4 col-12 " style="margin-top: 4%">
+<div class="col-lg-4 col-12 " style="margin-top: 2%">
 	<div class="service-sec-list " style="text-align:center">
 		<img src="images/icons/tech.svg" alt="service" >
 		<h5 class="mb10" style="color: white">WebInGo at It's Best</h5>
 		<div class="row in-stats  about-statistics">
-            <div class="col-lg-4 col-sm-4" style="padding-left:0;padding-right:0;border-right: 1px solid white;">
-              <div class="statistics">
-                <div class="statnumb counter-number">
-                  <span class="counter">4</span><span>+</span>
-                  <span style="font-weight:900;font-size:11px;">Years Experience</span>
+            <div class="col-lg-4 col-sm-4 counter1 " >
+              <div class="">
+                <div class="statnumb counter-number ">
+                  <span class="counter counter-span2">4</span><span class="counter-span2">&nbsp;+</span><br>
+                  <span class="counter-span1">Years Experience</span>
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-sm-4" style="padding-left:0;padding-right:0;border-right: 1px solid white;">
-              <div class="statistics">
+            <div class="col-lg-4 col-sm-4 counter1" >
+              <div class="">
                 <div class="statnumb">
-                  <span class="counter">10</span><span>+</span>
-                  <span style="font-weight:900;font-size:11px;">Org Recogination</span>
+                  <span class="counter counter-span2">10</span><span class="counter-span2">&nbsp;+</span><br>
+                  <span class="counter-span1">Org Recogination</span>
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-sm-4">
-              <div class="statistics mb0">
-                <div class="statnumb counter-number">
-                  <span class="counter">500</span><span>+</span>
-                  <span style="font-weight:900;font-size:11px;">Happy Clients</span>
+            <div class="col-lg-4 col-sm-4 counter1">
+              <div class="">
+                <div class="statnumb counter-number" style="margin-left:13px;">
+                  <span class="counter counter-span2">500</span><span class="counter-span2">&nbsp;+</span><br>
+                  <span class="counter-span1">Happy Clients</span>
                 </div>
               </div>
             </div>
@@ -284,17 +169,16 @@ tbody{
 	<option value="Graphics Design">Graphics Design</option>
 	<option value="Brochure, Business Card, Flyer Design">Brochure, Business Card, Flyer Design</option>
 <option value="Content Writing Services">Content Writing Services</option>
-		      			</select>
+</select>
  <br>
-		    <div class="col-md-12"> 				<input type="hidden" value="" name="secret"   id="secret"/>
-		      			<input class="btn btn-primary bg-btn2" type="button" value="Submit" name="Submit"   id="Submit" onclick="contactquick();"/></div> 
+		    <div class="col-md-12"> 				
+				<input type="hidden" value="" name="secret"   id="secret"/>
+		      	<input class="btn btn-primary bg-btn2" type="button" value="Submit" name="Submit"   id="Submit" onclick="contactquick();"/>
+			</div> 
 </form>
-
-</div>
-  
 </div>
 </div>
-	
+</div>
 </div>
 </section>
   <!--End Breadcrumb Area-->
@@ -312,174 +196,190 @@ tbody{
 </div>
 </div>
 <div class="row upset link-hover">
-<div class="col-lg-3 col-md-3 mt30 wow fadeInUp" data-wow-delay=".2s">
-<div class="s-block wide-sblock" style="padding: 27px 19px; visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp; box-shadow: -11px 12px 8px #888888; ">
-<div class="s-card-icon-large" style="
-}">
-	<table class="my_table">
+
+
+
+	<div class="col-lg-12 col-md-12 mt30 wow fadeInUp " data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+<div class="s-block wide-sblock box">
+	 <div class="col-lg-3 colo-12" >
+<div class="">
+	 <div id="no-table">
+      <table class="col-sm-12 table-bordered table-striped table-condensed cf">
+        <thead class="cf">
+          <tr>
+            <th>Project :</th>
+            <th class="thsize">Anand Flour Mill</th>
+          </tr>
 		  <tr>
-			<th>Project :</th>
-			 <td>Anand Flour Mill</td>
-		  </tr>
+            <th>Keywords :</th>
+            <th class="thsize">Mill</th>
+          </tr>
+			<tr>
+            <th>Rank :</th>
+            <th class="thsize">1st</th>
+          </tr>
 		  <tr>
-		   <th>Keywords :</th>
-			<td>Mill</td>
-		  </tr>
-			 <tr>
-		   <th>Rank :</th>
-			<td>1st</td>
-		  </tr>
-			 <tr>
-		   <th>Duration :</th>
-			<td>1 month</td>
-		  </tr>
-	</table>
-  </div>
-  </div>
-  </div>
-<div class="col-lg-9 col-md-9 mt30 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-<div class="s-block wide-sblock" style="-webkit-box-shadow: none; box-shadow: none;">
-<div class="s-block-content-large">
-  <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
-</div>
-	</div>
-</div>
-<div class="col-lg-12 col-md-12 mt30 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-<div class="s-block wide-sblock">
-<div class="s-card-icon-large">
-	<table class="my_table">
-		  <tr>
-			<th>Project :</th>
-			 <td>Anand Flour Mill</td>
-		  </tr>
-		  <tr>
-		   <th>Keywords :</th>
-			<td>Mill</td>
-		  </tr>
-			 <tr>
-		   <th>Rank :</th>
-			<td>1st</td>
-		  </tr>
-			 <tr>
-		   <th>Duration :</th>
-			<td>1 month</td>
-		  </tr>
-	</table>
-  </div>
-<div class="s-block-content-large">
-  <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
-</div>
-	</div>
-</div>
-<div class="col-lg-12 col-md-12 mt30 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
- <div class="s-block wide-sblock">
-<div class="s-card-icon-large">
-	<table class="my_table">
-		  <tr>
-			<th>Project :</th>
-			 <td>Anand Flour Mill</td>
-		  </tr>
-		  <tr>
-		   <th>Keywords :</th>
-			<td>Mill</td>
-		  </tr>
-			 <tr>
-		   <th>Rank :</th>
-			<td>1st</td>
-		  </tr>
-			 <tr>
-		   <th>Duration :</th>
-			<td>1 month</td>
-		  </tr>
-	</table>
-  </div>
-<div class="s-block-content-large">
-  <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
-</div>
-	</div>
-  </div>
- 
-  <div class="col-lg-12 col-md-12 mt30 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
-  <div class="s-block wide-sblock">
-<div class="s-card-icon-large">
-	<table class="my_table">
-		  <tr>
-			<th>Project :</th>
-			 <td>Anand Flour Mill</td>
-		  </tr>
-		  <tr>
-		   <th>Keywords :</th>
-			<td>Mill</td>
-		  </tr>
-			 <tr>
-		   <th>Rank :</th>
-			<td>1st</td>
-		  </tr>
-			 <tr>
-		   <th>Duration :</th>
-			<td>1 month</td>
-		  </tr>
-	</table>
-  </div>
-<div class="s-block-content-large">
-  <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
-</div>
-	</div>
+            <th>Duration :</th>
+            <th class="thsize">1 month</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
     </div>
-    <div class="col-lg-12 col-md-12 mt30 wow fadeInUp" data-wow-delay="1s" style="visibility: hidden; animation-delay: 1s; animation-name: none;">
-      <div class="s-block wide-sblock">
-<div class="s-card-icon-large">
-	<table class="my_table">
-		  <tr>
-			<th>Project :</th>
-			 <td>Anand Flour Mill</td>
-		  </tr>
-		  <tr>
-		   <th>Keywords :</th>
-			<td>Mill</td>
-		  </tr>
-			 <tr>
-		   <th>Rank :</th>
-			<td>1st</td>
-		  </tr>
-			 <tr>
-		   <th>Duration :</th>
-			<td>1 month</td>
-		  </tr>
-	</table>
-  </div>
-<div class="s-block-content-large">
-  <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
-</div>
+		 </div></div>
+	 <div class="col-lg-9 col-12" >
+		<div class="s-block-content-large">
+		  <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
+		</div>
 	</div>
-      </div>
-      <div class="col-lg-12 col-md-12 mt30 wow fadeInUp" data-wow-delay="1.2s" style="visibility: hidden; animation-delay: 1.2s; animation-name: none;">
-        <div class="s-block wide-sblock">
-<div class="s-card-icon-large">
-	<table class="my_table">
-		  <tr>
-			<th>Project :</th>
-			 <td>Anand Flour Mill</td>
-		  </tr>
-		  <tr>
-		   <th>Keywords :</th>
-			<td>Mill</td>
-		  </tr>
-			 <tr>
-		   <th>Rank :</th>
-			<td>1st</td>
-		  </tr>
-			 <tr>
-		   <th>Duration :</th>
-			<td>1 month</td>
-		  </tr>
-	</table>
-  </div>
-<div class="s-block-content-large">
-  <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
-</div>
 	</div>
-        </div>
+</div>
+	<div class="col-lg-12 col-md-12 mt30 wow fadeInUp " data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+<div class="s-block wide-sblock box">
+	 <div class="col-lg-3" >
+<div class="">
+	 <div id="no-table">
+      <table class="col-sm-12 table-bordered table-striped table-condensed cf">
+        <thead class="cf">
+          <tr>
+            <th>Project :</th>
+            <th class="thsize">Anand Flour Mill</th>
+          </tr>
+		  <tr>
+            <th>Keywords :</th>
+            <th class="thsize">Mill</th>
+          </tr>
+			<tr>
+            <th>Rank :</th>
+            <th class="thsize">1st</th>
+          </tr>
+		  <tr>
+            <th>Duration :</th>
+            <th class="thsize">1 month</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
+		 </div></div>
+	 <div class="col-lg-9" >
+		<div class="s-block-content-large">
+		  <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
+		</div>
+	</div>
+	</div>
+</div>
+	<div class="col-lg-12 col-md-12 mt30 wow fadeInUp " data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+<div class="s-block wide-sblock box">
+	 <div class="col-lg-3" >
+<div class="">
+	 <div id="no-table">
+      <table class="col-sm-12 table-bordered table-striped table-condensed cf">
+        <thead class="cf">
+          <tr>
+            <th>Project :</th>
+            <th class="thsize">Anand Flour Mill</th>
+          </tr>
+		  <tr>
+            <th>Keywords :</th>
+            <th class="thsize">Mill</th>
+          </tr>
+			<tr>
+            <th>Rank :</th>
+            <th class="thsize">1st</th>
+          </tr>
+		  <tr>
+            <th>Duration :</th>
+            <th class="thsize">1 month</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
+		 </div></div>
+	 <div class="col-lg-9" >
+		<div class="s-block-content-large">
+		  <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
+		</div>
+	</div>
+	</div>
+</div>
+	<div class="col-lg-12 col-md-12 mt30 wow fadeInUp " data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+<div class="s-block wide-sblock box">
+	 <div class="col-lg-3" >
+<div class="">
+	 <div id="no-table">
+      <table class="col-sm-12 table-bordered table-striped table-condensed cf">
+        <thead class="cf">
+          <tr>
+            <th>Project :</th>
+            <th class="thsize">Anand Flour Mill</th>
+          </tr>
+		  <tr>
+            <th>Keywords :</th>
+            <th class="thsize">Mill</th>
+          </tr>
+			<tr>
+            <th>Rank :</th>
+            <th class="thsize">1st</th>
+          </tr>
+		  <tr>
+            <th>Duration :</th>
+            <th class="thsize">1 month</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
+		 </div></div>
+	 <div class="col-lg-9" >
+		<div class="s-block-content-large">
+		  <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
+		</div>
+	</div>
+	</div>
+</div>
+	<div class="col-lg-12 col-md-12 mt30 wow fadeInUp " data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+<div class="s-block wide-sblock box">
+	 <div class="col-lg-3" >
+<div class="">
+	 <div id="no-table">
+      <table class="col-sm-12 table-bordered table-striped table-condensed cf">
+        <thead class="cf">
+          <tr>
+            <th>Project :</th>
+            <th class="thsize">Anand Flour Mill</th>
+          </tr>
+		  <tr>
+            <th>Keywords :</th>
+            <th class="thsize">Mill</th>
+          </tr>
+			<tr>
+            <th>Rank :</th>
+            <th class="thsize">1st</th>
+          </tr>
+		  <tr>
+            <th>Duration :</th>
+            <th class="thsize">1 month</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
+		 </div></div>
+	 <div class="col-lg-9" >
+		<div class="s-block-content-large">
+		  <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
+		</div>
+	</div>
+	</div>
+</div>
+
       </div>
       <div class="-cta-btn mt70">
         <div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.4s" style="visibility: hidden; animation-delay: 1.4s; animation-name: none;">

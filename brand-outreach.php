@@ -136,8 +136,7 @@
 <div class="row">
 	<div class="col-lg-12 text-center"><h2 class="mb20" style=""><div class="quotes">
     <blockquote>
-      <p>If you just help your customers, or help your buyers buy, and answer the questions that they have
-in that journey, then you can really succeed.</p>
+      <p>If you just help your customers, or help your buyers buy, and answer the questions that they have in that journey, then you can really succeed.</p>
       <footer>
       
       </footer>
@@ -146,13 +145,11 @@ in that journey, then you can really succeed.</p>
 	
 <div class="col-lg-7" style="margin-top:4%">
 <div class="text-l service-desc- pr25">
-	<span>GROW TRAFFIC &amp; INCREASE REVENUE</span>
+	
 	<h2>Brand Outreach and Promotion</h2>
 	<br>
-<p style="text-align: justify">Outreach and promotion no longer belong only to the Public Relations team; it’s a vital part
-of all brand communication channels, especially digital marketing. We define outreach as
-communication that occurs when brands reach out to their audience, including customers,
-internal teams, the media, community, social influencers, and other stakeholders.</p>
+<p style="text-align: justify">Outreach and promotion no longer belong only to the Public Relations team; it’s a vital part of all brand communication channels, especially digital marketing. We define outreach as communication that occurs when brands reach out to their audience, including customers, internal teams, the media, community, social influencers, and other stakeholders.<br>
+After you’ve invested in your content strategy, established a strong technical foundation for your site, and worked to establish your reputation, you want to connect that work with increased visibility and awareness. That’s where outreach and promotion come in. Just because you created content, doesn’t mean your audience will see it.</p>
 
 <a href="#" class="btn-main bg-btn2 lnk mt30">Request A Quote  <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
 	
@@ -172,28 +169,21 @@ internal teams, the media, community, social influencers, and other stakeholders
 	  <section class="service pad-tb bg-gradient15 light-dark">
 <div class="container">
 <div class="row">
-<div class="col-lg-7">
-<div class="text-l service-desc- pr25">
-  <h3 class="mb20" style="color:#000">Brand Outreach Benefits </h3>  
-  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-  <ul class="service-point-2 mt20">
-    <li># 800+ Mobile Delivered</li>
-    <li># 200+ Team Strength</li>
-    <li># User-Friendly Interface</li>
-    <li># 400 Happy Clients</li>
-    <li># 95% Repeat business</li>
-    <li># Quality Service UX</li>
-  </ul>
-  <a href="#" class="btn-main bg-btn2 lnk mt30">Request A Quote  <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
-</div>
-</div>
 <div class="col-lg-5">
+<div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+<img src="images/brand_outreach.png" alt="image" class="img-fluid no-shadow">
+</div>
+</div>
+<div class="col-lg-7">
 <div class="servie-key-points">
-  <h4>Advantages of Company Branding</h4>
+  <h2>Benefits</h2>
   <ul class="key-points mt20">
-      <li>Building links</li>
-      <li>Reach more people</li>
-      <li>Personal touch</li>
+      <li style="text-align:justify;"><strong>Building links -</strong>
+Building links with influencers is also a benefit as much as it is one of the main purposes of outreach marketing.  It doesn’t only help promote a business’ latest product/service in a form of a third person referral; it can also help possible long term engagements with the influencer.</li>
+      <li style="text-align:justify;"><strong>Reach more people -</strong>
+Outreach marketing allows businesses to subtly market to more people that fit in to their target demographics. While straightforward email marketing sometimes does the trick in luring people to check out new products they haven’t tried, partnering with influencers make marketing easier and the marketing efforts appear more reliable.</li>
+      <li style="text-align:justify;"><strong>Personal touch -</strong>
+When you’re a growing business, creating a marketing strategy that’s targeted but also has personal touch can be really difficult. But through outreach marketing, you get a chance to find a person or group of people to relay the company’s message to more people.</li>
       
 
   </ul>
@@ -207,51 +197,44 @@ internal teams, the media, community, social influencers, and other stakeholders
 <div class="row justify-content-center">
 <div class="col-lg-8">
 <div class="common-heading">
-<span>Services We’re Provided</span>
+
 <h2 class="mb30">Brand Outreach and Promotion Includes</h2>
 </div>
 </div>
 </div>
 <div class="row upset link-hover shape-num justify-content-center">
-<div class="col-lg-3 col-sm-6 mt30 shape-loc wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+<div class="col-lg-4 col-sm-6 mt30 shape-loc wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
 <div class="s-card-icon"><img src="images/icons/branding.svg" alt="service" class="img-fluid"></div>
-<h4>SEO <br>services</h4>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-<a href="javascript:void(0)">Learn More <i class="fas fa-chevron-right fa-icon"></i></a>
+
+<p>SEO services</p>
+
 </div>
 </div>
-<div class="col-lg-3 col-sm-6 mt30 shape-loc wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+<div class="col-lg-4 col-sm-6 mt30 shape-loc wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
 <div class="s-card-icon"><img src="images/icons/development.svg" alt="service" class="img-fluid"></div>
-<h4>Campaign <br>Marketing</h4>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-<a href="javascript:void(0)">Learn More <i class="fas fa-chevron-right fa-icon"></i></a>
+
+<p>Campaign Marketing</p>
+
 </div>
 </div>
-<div class="col-lg-3 col-sm-6 mt30 shape-loc wow fadeInUp" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+<div class="col-lg-4 col-sm-6 mt30 shape-loc wow fadeInUp" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
 <div class="s-card-icon"><img src="images/icons/app.svg" alt="service" class="img-fluid"></div>
-<h4 style="font-size:19px;">Online reputation management services</h4>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-<a href="javascript:void(0)">Learn More <i class="fas fa-chevron-right fa-icon"></i></a>
+
+<p>Online reputation management services</p>
+
 </div>
 </div>
-<div class="col-lg-3 col-sm-6 mt30 shape-loc wow fadeInUp" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
-<div class="s-block mb0" data-tilt="" data-tilt-max="5" data-tilt-speed="1000">
-<div class="s-card-icon"><img src="images/icons/marketing.svg" alt="service" class="img-fluid"></div>
-<h4>Video <br>Marketing</h4>
-<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-<a href="javascript:void(0)">Learn More <i class="fas fa-chevron-right fa-icon"></i></a>
+
 </div>
-</div>
-</div>
-<div class="-cta-btn mt70">
+<!--<div class="-cta-btn mt70">
 <div class="free-cta-title v-center wow zoomInDown" data-wow-delay=".9s" style="visibility: visible; animation-delay: 0.9s; animation-name: zoomInDown;">
 <p>Hire a <span>Dedicated Developer</span></p>
 <a href="#" class="btn-main bg-btn2 lnk">Hire Now<i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
 </div>
-</div>
+</div>-->
 </div>
 </section>
 	  

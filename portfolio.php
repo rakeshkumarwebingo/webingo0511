@@ -227,28 +227,28 @@
 			  </div>
 			</div>
             </div>
-		     <div class="col-sm-6" style="max-width:50%;">
+		     <div class="col-sm-6 porfolio-width" >
 			<div class="case-study study3">
 				<figure>
 					<img class="case-study__img" src="images/logo-portfolio.jpg" alt="" />
 				</figure>
-			  <div class="case-study__overlay">
-				<h2 class="case-study__title">Logo Design</h2>
+			  <div class="case-study__overlay1">
+				<h2 class="case-study__title1">Logo Design</h2>
 				<div class="col-md-12 text-center">
-				<a class="btn btn-primary case-study__link" href="logo-portfolio.php">View More</a>
+				<a class="btn btn-primary case-study__link1" href="logo-portfolio.php">View More</a>
 				 </div>
 			  </div>
 			</div>
             </div>
-		     <div class="col-sm-6" style="max-width:50%;">
+		     <div class="col-sm-6 porfolio-width" >
 			<div class="case-study study2">
 				<figure>
 					<img class="case-study__img" src="images/portfolio/poster.jpg" alt="" />
 				</figure>
-			  <div class="case-study__overlay">
-				<h2 class="case-study__title">POSTERS</h2>
+			  <div class="case-study__overlay1">
+				<h2 class="case-study__title1">POSTERS</h2>
 				<div class="col-md-12 text-center">
-				<a class="btn btn-primary case-study__link" href="poster-portfoilo.php">View More</a>
+				<a class="btn btn-primary case-study__link1" href="poster-portfoilo.php">View More</a>
 				 </div>
 			  </div>
 			</div>
@@ -266,54 +266,54 @@
 			  </div>
 			</div>
             </div>
-		     <div class="col-sm-6" style="max-width:50%;">
+		     <div class="col-sm-6 porfolio-width" >
 			<div class="case-study study5">
 				<figure>
 					<img class="case-study__img" src="images/portfolio/branding.jpeg" alt="" />
 				</figure>
-			  <div class="case-study__overlay">
-				<h2 class="case-study__title">Branding Collaterales</h2>
+			  <div class="case-study__overlay2">
+				<h2 class="case-study__title2">Branding Collaterales</h2>
 				<div class="col-md-12 text-center">
-				<a class="btn btn-primary case-study__link" href="branding-portfolio.php">View More</a>
+				<a class="btn btn-primary case-study__link2" href="branding-portfolio.php">View More</a>
 				 </div>
 			  </div>
 			</div>
             </div>
-		     <div class="col-sm-6" style="max-width:50%;">
+		     <div class="col-sm-6 porfolio-width" >
 			<div class="case-study study4">
 				<figure>
 					<img class="case-study__img" src="images/portfolio/product.jpg" alt="" />
 				</figure>
-			  <div class="case-study__overlay">
-				<h2 class="case-study__title">Product Packaging</h2>
+			  <div class="case-study__overlay3">
+				<h2 class="case-study__title3">Product Packaging</h2>
 				  <div class="col-md-12 text-center">
-				<a class="btn btn-primary case-study__link" href="product-portfolio.php">View More</a>
+				<a class="btn btn-primary case-study__link3" href="product-portfolio.php">View More</a>
 				 </div>
 			  </div>
 			</div>
             </div>
-		     <div class="col-sm-6" style="max-width:50%;">
+		     <div class="col-sm-6 porfolio-width">
 			<div class="case-study study5">
 				<figure>
 					<img class="case-study__img" src="images/portfolio/graphic.jpeg" alt="" />
 				</figure>
-			  <div class="case-study__overlay">
-				<h2 class="case-study__title">Graphic Design</h2>
+			  <div class="case-study__overlay4">
+				<h2 class="case-study__title4">Graphic Design</h2>
 				<div class="col-md-12 text-center">
-				<a class="btn btn-primary case-study__link" href="#">View More</a>
+				<a class="btn btn-primary case-study__link4" href="#">View More</a>
 				 </div>
 			  </div>
 			</div>
             </div>
-		     <div class="col-sm-6" style="max-width:50%;">
+		     <div class="col-sm-6 col-12 porfolio-width">
 			<div class="case-study study4">
 				<figure>
 					<img class="case-study__img" src="images/portfolio/mobile-app.jpeg" alt="" />
 				</figure>
-			  <div class="case-study__overlay">
-				<h2 class="case-study__title">APP</h2>
+			  <div class="case-study__overlay5">
+				<h2 class="case-study__title5">APP</h2>
 				<div class="col-md-12 text-center">
-				<a class="btn btn-primary case-study__link" href="#">View More</a>
+				<a class="btn btn-primary case-study__link5" href="#">View More</a>
 				 </div>
 			  </div>
 			</div>

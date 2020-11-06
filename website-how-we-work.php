@@ -204,23 +204,23 @@
       <div class="row upset link-hover">
         <div class="col-lg-4 col-sm-6 mt30">
           <div class="s-block">
-            <div class="s-card-icon"><img src="images/icons/logo-and-branding.svg" alt="service" class="img-fluid"></div>
+            <div class="s-card-icon"><img src="images/icons/expert.png" alt="service" class="img-fluid"></div>
             <h4>The first Interaction</h4>
             <p>After receiving your interest in our organisation, we plan our first Interaction. Our team member will have a detailed conversation on getting to know about your business and your needs.</p>
            
           </div>
         </div>
-        <div class="col-lg-4 col-sm-6 mt30">
+		   <div class="col-lg-4 col-sm-6 mt30">
           <div class="s-block">
-            <div class="s-card-icon"><img src="images/icons/website-design.svg" alt="service" class="img-fluid"></div>
-            <h4>Team Discussion</h4>
-            <p>The team discusses about your business and your needs to come up with a solution. </p>
-           
+            <div class="s-card-icon"><img src="images/icons/design-customise.png" alt="service" class="img-fluid"></div>
+            <h4>Initial Design</h4>
+            <p>After the approval of solution, we design the initial pages and show you the design. If any changes are required, we make the necessary changes. After your approval, we follow the design for the rest of the changes.</p>
+            
           </div>
         </div>
-        <div class="col-lg-4 col-sm-6 mt30">
+		  <div class="col-lg-4 col-sm-6 mt30">
           <div class="s-block">
-            <div class="s-card-icon"><img src="images/icons/app.svg" alt="service" class="img-fluid"></div>
+            <div class="s-card-icon"><img src="images/icons/friends.png" alt="service" class="img-fluid"></div>
             <h4>Sharing the solution</h4>
             <p>We share the solution and suggestions with you. </p>
            
@@ -228,15 +228,17 @@
         </div>
         <div class="col-lg-4 col-sm-6 mt30">
           <div class="s-block">
-            <div class="s-card-icon"><img src="images/icons/graphic.svg" alt="service" class="img-fluid"></div>
-            <h4>Initial Design</h4>
-            <p>After the approval of solution, we design the initial pages and show you the design. If any changes are required, we make the necessary changes. After your approval, we follow the design for the rest of the changes.</p>
-            
+            <div class="s-card-icon"><img src="images/icons/meeting.png" alt="service" class="img-fluid"></div>
+            <h4>Team Discussion</h4>
+            <p>The team discusses about your business and your needs to come up with a solution. </p>
+           
           </div>
         </div>
+        
+       
         <div class="col-lg-4 col-sm-6 mt30">
           <div class="s-block">
-            <div class="s-card-icon"><img src="images/icons/video.svg" alt="service" class="img-fluid"></div>
+            <div class="s-card-icon"><img src="images/icons/customize.png" alt="service" class="img-fluid"></div>
             <h4>Development</h4>
             <p>The design layout is then converted into a working website using the best techniques.</p>
            
@@ -244,7 +246,7 @@
         </div>
         <div class="col-lg-4 col-sm-6 mt30">
           <div class="s-block">
-            <div class="s-card-icon"><img src="images/icons/design-icon.svg" alt="service" class="img-fluid"></div>
+            <div class="s-card-icon"><img src="images/icons/research-1.png" alt="service" class="img-fluid"></div>
             <h4>Testing</h4>
             <p>We test the Website for any bugs or errors and fix them for a hassle-free experience.</p>
            
@@ -252,7 +254,7 @@
         </div> 
 		  <div class="col-lg-4 col-sm-6 mt30">
           <div class="s-block">
-            <div class="s-card-icon"><img src="images/icons/graphic.svg" alt="service" class="img-fluid"></div>
+            <div class="s-card-icon"><img src="images/icons/remember.png" alt="service" class="img-fluid"></div>
             <h4>Final Review</h4>
             <p>After creating the final version, the output is shared with you for review. Final changes will be provided before the website is made live on the Internet.</p>
            
@@ -260,7 +262,7 @@
         </div>
         <div class="col-lg-4 col-sm-6 mt30">
           <div class="s-block">
-            <div class="s-card-icon"><img src="images/icons/video.svg" alt="service" class="img-fluid"></div>
+            <div class="s-card-icon"><img src="images/icons/rocket-1.png" alt="service" class="img-fluid"></div>
             <h4>Launch</h4>
             <p>The website is made live on the Internet. If other services such as, digital marketing, SEO, and so on are opted. We start working on it.</p>
            
@@ -268,7 +270,7 @@
         </div>
         <div class="col-lg-4 col-sm-6 mt30">
           <div class="s-block">
-            <div class="s-card-icon"><img src="images/icons/design-icon.svg" alt="service" class="img-fluid"></div>
+            <div class="s-card-icon"><img src="images/icons/support-1.png" alt="service" class="img-fluid"></div>
             <h4>Support</h4>
             <p>We provide a limited period support and extended support depending on the package opted for.</p>
            
@@ -372,7 +374,7 @@ terms of traffic and sales</p>
 </div>
 <div class="col-md-5th-1 mt30 shape-loc wow fadeInUp small1" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1); transition: all 1000ms cubic-bezier(0.03, 0.98, 0.52, 0.99) 0s;">
-<div class="s-card-icon"><img src="images/icons/development.png" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/user-interface.png" alt="service" class="img-fluid"></div>
 <h4>Brief</h4>
 <p>• Site objectives</p>
 <p>• Target market</p>
@@ -380,7 +382,7 @@ terms of traffic and sales</p>
 </div>
 <div class="col-md-5th-1  mt30 shape-loc wow fadeInUp small1" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
-<div class="s-card-icon"><img src="images/icons/process.png" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/implementer.png" alt="service" class="img-fluid"></div>
 <h4>Planning</h4>
 <p>• Page structure</p>
 <p>• Site tools & features</p>
@@ -389,14 +391,14 @@ terms of traffic and sales</p>
 </div>
 <div class="col-md-5th-1  mt30 shape-loc wow fadeInUp small1" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
-<div class="s-card-icon"><img src="images/icons/design-customise.png" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/customize.png" alt="service" class="img-fluid"></div>
 <h4>Cut CSS</h4>
 <p>• Create framework</p>
 </div>
 </div> 
 <div class="col-md-5th-1  mt30 shape-loc wow fadeInUp small1" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
-<div class="s-card-icon"><img src="images/icons/consulting.png" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/seo-audit.png" alt="service" class="img-fluid"></div>
 <h4>Lunch</h4>
 <p>• Create hosting</p>
 <p>• Create emails</p>
@@ -404,7 +406,7 @@ terms of traffic and sales</p>
 </div> 
 <div class="col-md-5th-1  mt30 shape-loc wow fadeInUp small1" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
-<div class="s-card-icon"><img src="images/icons/migrating.png" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/rocket-1.png" alt="service" class="img-fluid"></div>
 <h4>Analytics</h4>
 <p>• Generate rankings</p>
 <p>• PPC for traffic</p>
@@ -412,7 +414,7 @@ terms of traffic and sales</p>
 </div> 
 <div class="col-md-5th-1  mt30 shape-loc wow fadeInUp small1" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
-<div class="s-card-icon"><img src="images/icons/seo-2.png" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/research-1.png" alt="service" class="img-fluid"></div>
 <h4>Research</h4>
 <p>• Competitor research</p>
 <p>• Environment research</p>
@@ -428,7 +430,7 @@ terms of traffic and sales</p>
 </div> 
 	<div class="col-md-5th-1 mt30 shape-loc wow fadeInUp small1" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
-<div class="s-card-icon"><img src="images/icons/expert.png" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/cms-1.png" alt="service" class="img-fluid"></div>
 <h4>Construct</h4>
 <p>• Construct site</p>
 <p>• Install CMS</p>
@@ -436,7 +438,7 @@ terms of traffic and sales</p>
 </div>
 	<div class="col-md-5th-1  mt30 shape-loc wow fadeInUp small1" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
-<div class="s-card-icon"><img src="images/icons/expert.png" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/process.png" alt="service" class="img-fluid"></div>
 <h4>Analytics</h4>
 <p>• Add analytics</p>
 <p>• Add tools</p>
@@ -445,15 +447,15 @@ terms of traffic and sales</p>
 
 	<div class="col-md-5th-1  mt30 shape-loc wow fadeInUp small1" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
-<div class="s-card-icon"><img src="images/icons/expert.png" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/information.png" alt="service" class="img-fluid"></div>
 <h4>Eflyers</h4>
-<p>• Construct site</p>
-<p>• Install CMS</p>
+<p>• Awareness</p>
+</p>• Keep top of mind</p>
 </div>
 </div>
 	<div class="col-md-5th-1  mt30 shape-loc wow fadeInUp small1" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
-<div class="s-card-icon"><img src="images/icons/expert.png" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/business-report.png" alt="service" class="img-fluid"></div>
 <h4>Strategy</h4>
 <p>• Sector site review</p>
 <p>• Site strategy</p>
@@ -461,7 +463,7 @@ terms of traffic and sales</p>
 </div>
 	<div class="col-md-5th-1  mt30 shape-loc wow fadeInUp small1" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
-<div class="s-card-icon"><img src="images/icons/expert.png" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/design-customise.png" alt="service" class="img-fluid"></div>
 <h4>Design</h4>
 <p>• Design features</p>
 <p>• Design site</p>
@@ -469,7 +471,7 @@ terms of traffic and sales</p>
 </div>
 	<div class="col-md-5th-1  mt30 shape-loc wow fadeInUp small1" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
-<div class="s-card-icon"><img src="images/icons/expert.png" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/web-plugin.png" alt="service" class="img-fluid"></div>
 <h4>Optimise</h4>
 <p>• Enter text</p>
 <p>• Enter images</p>
@@ -477,7 +479,7 @@ terms of traffic and sales</p>
 </div>
 	<div class="col-md-5th-1  mt30 shape-loc wow fadeInUp small1" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
-<div class="s-card-icon"><img src="images/icons/expert.png" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/remember.png" alt="service" class="img-fluid"></div>
 <h4>Review</h4>
 <p>• Check statistics</p>
 <p>• Benchmark</p>
@@ -485,7 +487,7 @@ terms of traffic and sales</p>
 </div>
 	<div class="col-md-5th-1  mt30 shape-loc wow fadeInUp small1" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
-<div class="s-card-icon"><img src="images/icons/expert.png" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/bullhorn.png" alt="service" class="img-fluid"></div>
 <h4>Social</h4>
 <p>• “Buzz” + branding</p>
 <p>• Traffic/cross sales</p>

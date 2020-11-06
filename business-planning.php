@@ -176,8 +176,8 @@ business.</p>
 <div class="col-lg-8">
 <div class="common-heading ptag">
 
-<h2 class="text-radius text-light text-animation bg-b">Business Planning</h2>
-<p class="mb30">We think big and have hands in all leading technology platforms to provide you wide array of services.</p>
+<h2>Key Factors</h2>
+<p class="mb30">We think big and have experts with deep knowledge and experience.</p>
 </div>
 </div>
 </div>
@@ -259,7 +259,7 @@ planning process.</p>
 
 <div class="col-lg-7">
 <div class="text-l service-desc- pr25">
-  <h3 class="mb20 text-radius text-light text-animation bg-b" style="color:#000">Benefits of Business Planning.</h3>  
+  <h3 style="color:#000">Benefits of Business Planning.</h3>  
 		<ul class="key-points   mt20" style="column-count: 2;">
 		
 		<li>See the whole business.</li>
@@ -290,7 +290,7 @@ planning process.</p>
         <div class="col-lg-8">
           <div class="common-heading">
            
-            <h2 class="mb30 text-radius text-light text-animation bg-b">Let’s walk through the key process</h2>
+            <h2 class="mb20">Let’s walk through the key process</h2>
 			<p>We follow an extrinsic detailed process with minute observations and detailed planning.</p>
           </div>
         </div>
@@ -333,8 +333,7 @@ operates in.</p>
             <div class="s-card-icon"><img src="images/icons/meeting.png" alt="service" class="img-fluid"></div>
             <h4>Customer Analysis</h4>
             <p style="text-align:justify;">
-
-Analysing the attributes of your customers can assist with ensuring your product/service features,pricing
+Analysing the attributes of your customers can assist with ensuring your product/ service features, pricing
 
 and marketing strategy. </p>
             
@@ -397,18 +396,21 @@ the development of a high-level marketing.</p>
 <div class="col-lg-7">
 <div class="text-l service-desc- pr25">
 	
-	<h2 class="text-radius text-light text-animation bg-b">Our Process</h2>
+	<h2>Our Process</h2>
+	<p>We follow an extremely detailed process to serve you with your needs and deliver the best.</p>
 	<br>
 	<ul class="key-points   mt20">
-  <li>Market Overview.</p>
+  <li>Market Overview.</li>
 	<li>Strategy &amp; Implementation.</li>
   <li>Mission and Vision Statement.</li>
 	<li>Financial Plan and Funding Required.</li>
 	<li>Business Model Workflow Chart / Description.</li>
+	<li> Details of the Services and Products provided.</li>
+	
   <li>Key Performance Indicators for success of the Business.</li>
   <li>Company Overview and understanding of the Business Model.</li>
 	
-	<li> Details of the Services and Products provided.</li>
+	
   <li>Problem Statement and Challenges faced by consumers (Why will consumers use us?).</li>
 	<li>Detailed Pricing Structure (This would be covered as part of the financial model as well. If not, we would require your assistance to formulate the pricing structure).</li>
 

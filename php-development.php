@@ -233,7 +233,7 @@
         <div class="col-lg-6">
           <div class="common-heading">
            
-            <h2 class="mb30">What we offer with PHP development?</h2>
+            <h2 class="mb10">What we offer with PHP development?</h2>
 			  <p>We provide innovative web application development services with PHP development environment through an array of services.</p>
           </div>
         </div>
@@ -297,8 +297,8 @@
 	<div class="col-lg-8">
 		<div class="common-heading ptag">
 			
-			<h2 class="text-radius text-light text-animation bg-b">Our Process</h2>
-			
+			<h2 >Our Process</h2>
+			<p>We follow an extremely detailed process to serve you with your needs and deliver the best.</p>
 		</div>
 	</div>
 </div>
@@ -382,14 +382,14 @@
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
 <div class="s-card-icon"><img src="images/icons/process.png" alt="service" class="img-fluid"></div>
 <h4>CodeIgniter </h4>
-<p style="text-align:center;">CodeIgniter is an open-source software rapid development web framework, for use in building dynamic web sites with PHP. CodeIgniter is loosely based on the popular model–view–controller (MVC) development pattern.</p>
+<p style="text-align:center;">CodeIgniter is an open-source software rapid development web framework, for use in building dynamic web sites . It is loosely based on the popular model–view–controller (MVC) development pattern.</p>
 </div>
 </div>
 <div class="col-lg-3 col-sm-6 mt30 shape-loc wow fadeInUp" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
 <div class="s-card-icon"><img src="images/icons/api-1.png" alt="service" class="img-fluid"></div>
 <h4>CakePHP</h4>
-<p style="text-align:center;">CakePHP is an open-source web framework. It follows the model–view–controller approach and is written in PHP, modelled after the concepts of Ruby on Rails, and distributed under the MIT License.</p>
+<p style="text-align:center;">CakePHP is an open-source web framework. CakePHP follows the model–view–controller (MVC) approach and is written in PHP, modelled after the concepts of Ruby on Rails, and distributed under the MIT License.</p>
 </div>
 </div> 
 <div class="col-lg-3 col-sm-6 mt30 shape-loc wow fadeInUp" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
