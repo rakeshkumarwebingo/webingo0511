@@ -25,61 +25,96 @@
 	 }
 			  
 }
-			.box:hover{
-				box-shadow: 10px 10px 10px  #595959;
-			}
-		  @media only screen and (max-width: 800px) {
-  #no-table table, #no-table thead, #no-table tbody, #no-table th, #no-table td, #no-table tr {
-    display: block;
+@media (max-width: 550px){
+.ptable{
+	font-weight: 900;
+	font-size: 9px;
+	}
+	.ptable2{
+		font-size: 9px;
+		    line-height: 0;
+	}
+}  
+		 
+.ptable{
+	  font-weight: 900;
+}
+body .box {
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  margin: 3rem auto;
+  padding: 1em;
+}
+body .special {
+  text-align: center;
+}
+body .section {
+  height: auto;
+  padding: 1rem;
+  background: #fff;
+  -webkit-transition: all 300ms ease-in-out;
+  transition: all 300ms ease-in-out;
+  cursor: pointer;
+  will-change: transform;
+  padding-left: 0;
+}
+body .section:nth-child(2n-1) {
+  border-right: solid 2px #e5e5e5;
+}
+body .box:hover {
+  box-shadow: 0 10px 10px #595959;
+  -webkit-transform: translate(0, -15px);
+          transform: translate(0, -15px);
+  
+ 
+}
+		 
+body .section p {
+  margin-top: 4px;
+  text-align: left;
+}
+body .section img {
+  max-width: 20%;
+}
+body .section h1 {
+  margin-top: 2rem;
+}
+body .third {
+  border-top: solid 2px #e5e5e5;
+}
+body .third:hover {
+  border-top: solid 2px transparent;
+  z-index: 1;
+  border-radius: 2px;
+}
+body .fourth {
+  border-top: solid 2px #e5e5e5;
+}
+body .fourth:hover {
+  border-top: solid 2px transparent;
+  z-index: 1;
+  border-radius: 2px;
+}
+@media (max-width: 990px) {
+  body .features-row .section {
+    border: 0;
   }
-
-  #no-table thead tr {
-    position: absolute;
-    top: -9999px;
-    left: -9999px;
+  body .features-row .section:nth-child(2n-2) {
+    border-top: solid 2px #e5e5e5;
   }
-
-  #no-table tr {
-    border: 0px solid #ccc;
+  body .features-row .section:nth-child(2n-2):hover {
+    border-top: solid 2px transparent;
   }
-
-  #no-table td {
-    border: none;
-    border-bottom: 1px solid #eee;
-    position: relative;
-    padding-left: 50%;
-    white-space: normal;
-    text-align: left;
+  body .features-row .third {
+    border-top: solid 2px #e5e5e5;
   }
-
-  #no-table td:before {
-    position: absolute;
-    top: 6px;
-    left: 6px;
-    width: 50%;
-    padding-right: 10px;
-    white-space: nowrap;
-    text-align: left;
-    font-weight: bold;
-  }
-
-  #no-table td:before {
-    content: attr(data-title);
+  body .features-row .third:hover {
+    border-top: solid 2px transparent;
   }
 }
-.table-bordered td, .table-bordered th {
-    border: 0px solid #dee2e6;
-}
-.table-bordered thead td, .table-bordered thead th {
-    border-bottom-width: 0px;
-	width: 2px;
-}
-.table-bordered {
-    border: 0px solid #dee2e6;
-}
-		  .thsize{
-			  font-weight: 100;
-		  }
+
+		  
 	  </style>
   </head>
   <body>
@@ -195,192 +230,241 @@
 </div>
 </div>
 </div>
-<div class="row upset link-hover">
-
-
-
-	<div class="col-lg-12 col-md-12 mt30 wow fadeInUp " data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-<div class="s-block wide-sblock box">
-	 <div class="col-lg-3 colo-12" >
-<div class="">
-	 <div id="no-table">
-      <table class="col-sm-12 table-bordered table-striped table-condensed cf">
-        <thead class="cf">
-          <tr>
-            <th>Project :</th>
-            <th class="thsize">Anand Flour Mill</th>
-          </tr>
-		  <tr>
-            <th>Keywords :</th>
-            <th class="thsize">Mill</th>
-          </tr>
-			<tr>
-            <th>Rank :</th>
-            <th class="thsize">1st</th>
-          </tr>
-		  <tr>
-            <th>Duration :</th>
-            <th class="thsize">1 month</th>
-          </tr>
-        </thead>
-        <tbody>
-        </tbody>
-      </table>
-    </div>
-		 </div></div>
-	 <div class="col-lg-9 col-12" >
-		<div class="s-block-content-large">
-		  <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
-		</div>
-	</div>
-	</div>
-</div>
-	<div class="col-lg-12 col-md-12 mt30 wow fadeInUp " data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-<div class="s-block wide-sblock box">
-	 <div class="col-lg-3" >
-<div class="">
-	 <div id="no-table">
-      <table class="col-sm-12 table-bordered table-striped table-condensed cf">
-        <thead class="cf">
-          <tr>
-            <th>Project :</th>
-            <th class="thsize">Anand Flour Mill</th>
-          </tr>
-		  <tr>
-            <th>Keywords :</th>
-            <th class="thsize">Mill</th>
-          </tr>
-			<tr>
-            <th>Rank :</th>
-            <th class="thsize">1st</th>
-          </tr>
-		  <tr>
-            <th>Duration :</th>
-            <th class="thsize">1 month</th>
-          </tr>
-        </thead>
-        <tbody>
-        </tbody>
-      </table>
-    </div>
-		 </div></div>
-	 <div class="col-lg-9" >
-		<div class="s-block-content-large">
-		  <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
-		</div>
-	</div>
-	</div>
-</div>
-	<div class="col-lg-12 col-md-12 mt30 wow fadeInUp " data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-<div class="s-block wide-sblock box">
-	 <div class="col-lg-3" >
-<div class="">
-	 <div id="no-table">
-      <table class="col-sm-12 table-bordered table-striped table-condensed cf">
-        <thead class="cf">
-          <tr>
-            <th>Project :</th>
-            <th class="thsize">Anand Flour Mill</th>
-          </tr>
-		  <tr>
-            <th>Keywords :</th>
-            <th class="thsize">Mill</th>
-          </tr>
-			<tr>
-            <th>Rank :</th>
-            <th class="thsize">1st</th>
-          </tr>
-		  <tr>
-            <th>Duration :</th>
-            <th class="thsize">1 month</th>
-          </tr>
-        </thead>
-        <tbody>
-        </tbody>
-      </table>
-    </div>
-		 </div></div>
-	 <div class="col-lg-9" >
-		<div class="s-block-content-large">
-		  <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
-		</div>
-	</div>
-	</div>
-</div>
-	<div class="col-lg-12 col-md-12 mt30 wow fadeInUp " data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-<div class="s-block wide-sblock box">
-	 <div class="col-lg-3" >
-<div class="">
-	 <div id="no-table">
-      <table class="col-sm-12 table-bordered table-striped table-condensed cf">
-        <thead class="cf">
-          <tr>
-            <th>Project :</th>
-            <th class="thsize">Anand Flour Mill</th>
-          </tr>
-		  <tr>
-            <th>Keywords :</th>
-            <th class="thsize">Mill</th>
-          </tr>
-			<tr>
-            <th>Rank :</th>
-            <th class="thsize">1st</th>
-          </tr>
-		  <tr>
-            <th>Duration :</th>
-            <th class="thsize">1 month</th>
-          </tr>
-        </thead>
-        <tbody>
-        </tbody>
-      </table>
-    </div>
-		 </div></div>
-	 <div class="col-lg-9" >
-		<div class="s-block-content-large">
-		  <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
-		</div>
-	</div>
-	</div>
-</div>
-	<div class="col-lg-12 col-md-12 mt30 wow fadeInUp " data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-<div class="s-block wide-sblock box">
-	 <div class="col-lg-3" >
-<div class="">
-	 <div id="no-table">
-      <table class="col-sm-12 table-bordered table-striped table-condensed cf">
-        <thead class="cf">
-          <tr>
-            <th>Project :</th>
-            <th class="thsize">Anand Flour Mill</th>
-          </tr>
-		  <tr>
-            <th>Keywords :</th>
-            <th class="thsize">Mill</th>
-          </tr>
-			<tr>
-            <th>Rank :</th>
-            <th class="thsize">1st</th>
-          </tr>
-		  <tr>
-            <th>Duration :</th>
-            <th class="thsize">1 month</th>
-          </tr>
-        </thead>
-        <tbody>
-        </tbody>
-      </table>
-    </div>
-		 </div></div>
-	 <div class="col-lg-9" >
-		<div class="s-block-content-large">
-		  <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
-		</div>
-	</div>
-	</div>
-</div>
-
+ <div class="box special features container">
+    <div class="row features-row">
+      <div class="section col-lg-4">
+		   <div class="row features-row">
+				<div class=" col-lg-12 col-6">
+					<div class="row features-row">
+						<div class="col-md-6">
+						   <p class="ptable">Project :</p>
+						</div>
+						<div class="col-md-6">
+						   <p class="ptable2">Anand Flour Mill</p>
+						</div>
+					</div>
+					<div class="row features-row">
+						  <div class="col-md-6">
+							<p class="ptable">Keywords :</p>
+						  </div>
+						  <div class="col-md-6">
+							<p class="ptable2">Mill</p>
+						  </div>
+					</div>
+				</div>
+				<div class="col-lg-12 col-6">
+				   <div class="row features-row">
+						 <div class="col-md-6">
+							<p class="ptable">Rank :</p>
+						 </div>
+						 <div class="col-md-6">
+							<p class="ptable2">1st</p>
+						 </div>
+					</div>
+					<div class="row features-row">
+						 <div class="col-md-6">
+						   <p class="ptable">Duration :</p>
+						 </div>
+						 <div class="col-md-6">
+							<p class="ptable2">1 month</p>
+						 </div>
+					</div>
+				 </div>
+		  </div>
       </div>
+      <div class=" col-lg-8">
+         <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
+      </div>
+    </div>
+  </div> 
+	<div class="box special features container">
+    <div class="row features-row">
+      <div class="section col-lg-4">
+		   <div class="row features-row">
+				<div class=" col-lg-12 col-6">
+					<div class="row features-row">
+						<div class="col-md-6">
+						   <p class="ptable">Project :</p>
+						</div>
+						<div class="col-md-6">
+						   <p class="ptable2">Anand Flour Mill</p>
+						</div>
+					</div>
+					<div class="row features-row">
+						  <div class="col-md-6">
+							<p class="ptable">Keywords :</p>
+						  </div>
+						  <div class="col-md-6">
+							<p class="ptable2">Mill</p>
+						  </div>
+					</div>
+				</div>
+				<div class="col-lg-12 col-6">
+				   <div class="row features-row">
+						 <div class="col-md-6">
+							<p class="ptable">Rank :</p>
+						 </div>
+						 <div class="col-md-6">
+							<p class="ptable2">1st</p>
+						 </div>
+					</div>
+					<div class="row features-row">
+						 <div class="col-md-6">
+						   <p class="ptable">Duration :</p>
+						 </div>
+						 <div class="col-md-6">
+							<p class="ptable2">1 month</p>
+						 </div>
+					</div>
+				 </div>
+		  </div>
+      </div>
+      <div class=" col-lg-8">
+         <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
+      </div>
+    </div>
+  </div>
+	<div class="box special features container">
+    <div class="row features-row">
+      <div class="section col-lg-4">
+		   <div class="row features-row">
+				<div class=" col-lg-12 col-6">
+					<div class="row features-row">
+						<div class="col-md-6">
+						   <p class="ptable">Project :</p>
+						</div>
+						<div class="col-md-6">
+						   <p class="ptable2">Anand Flour Mill</p>
+						</div>
+					</div>
+					<div class="row features-row">
+						  <div class="col-md-6">
+							<p class="ptable">Keywords :</p>
+						  </div>
+						  <div class="col-md-6">
+							<p class="ptable2">Mill</p>
+						  </div>
+					</div>
+				</div>
+				<div class="col-lg-12 col-6">
+				   <div class="row features-row">
+						 <div class="col-md-6">
+							<p class="ptable">Rank :</p>
+						 </div>
+						 <div class="col-md-6">
+							<p class="ptable2">1st</p>
+						 </div>
+					</div>
+					<div class="row features-row">
+						 <div class="col-md-6">
+						   <p class="ptable">Duration :</p>
+						 </div>
+						 <div class="col-md-6">
+							<p class="ptable2">1 month</p>
+						 </div>
+					</div>
+				 </div>
+		  </div>
+      </div>
+      <div class=" col-lg-8">
+         <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
+      </div>
+    </div>
+  </div> 
+	<div class="box special features container">
+    <div class="row features-row">
+      <div class="section col-lg-4">
+		   <div class="row features-row">
+				<div class=" col-lg-12 col-6">
+					<div class="row features-row">
+						<div class="col-md-6">
+						   <p class="ptable">Project :</p>
+						</div>
+						<div class="col-md-6">
+						   <p class="ptable2">Anand Flour Mill</p>
+						</div>
+					</div>
+					<div class="row features-row">
+						  <div class="col-md-6">
+							<p class="ptable">Keywords :</p>
+						  </div>
+						  <div class="col-md-6">
+							<p class="ptable2">Mill</p>
+						  </div>
+					</div>
+				</div>
+				<div class="col-lg-12 col-6">
+				   <div class="row features-row">
+						 <div class="col-md-6">
+							<p class="ptable">Rank :</p>
+						 </div>
+						 <div class="col-md-6">
+							<p class="ptable2">1st</p>
+						 </div>
+					</div>
+					<div class="row features-row">
+						 <div class="col-md-6">
+						   <p class="ptable">Duration :</p>
+						 </div>
+						 <div class="col-md-6">
+							<p class="ptable2">1 month</p>
+						 </div>
+					</div>
+				 </div>
+		  </div>
+      </div>
+      <div class=" col-lg-8">
+         <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
+      </div>
+    </div>
+  </div> 
+	<div class="box special features container">
+    <div class="row features-row">
+      <div class="section col-lg-4">
+		   <div class="row features-row">
+				<div class=" col-lg-12 col-6">
+					<div class="row features-row">
+						<div class="col-md-6">
+						   <p class="ptable">Project :</p>
+						</div>
+						<div class="col-md-6">
+						   <p class="ptable2">Anand Flour Mill</p>
+						</div>
+					</div>
+					<div class="row features-row">
+						  <div class="col-md-6">
+							<p class="ptable">Keywords :</p>
+						  </div>
+						  <div class="col-md-6">
+							<p class="ptable2">Mill</p>
+						  </div>
+					</div>
+				</div>
+				<div class="col-lg-12 col-6">
+				   <div class="row features-row">
+						 <div class="col-md-6">
+							<p class="ptable">Rank :</p>
+						 </div>
+						 <div class="col-md-6">
+							<p class="ptable2">1st</p>
+						 </div>
+					</div>
+					<div class="row features-row">
+						 <div class="col-md-6">
+						   <p class="ptable">Duration :</p>
+						 </div>
+						 <div class="col-md-6">
+							<p class="ptable2">1 month</p>
+						 </div>
+					</div>
+				 </div>
+		  </div>
+      </div>
+      <div class=" col-lg-8">
+         <img src="images/seo/seo-mill.jpeg" alt="service" class="img-fluid">
+      </div>
+    </div>
+  </div>
       <div class="-cta-btn mt70">
         <div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.4s" style="visibility: hidden; animation-delay: 1.4s; animation-name: none;">
           
@@ -389,8 +473,7 @@
       </div>
     </div>
   </section>
-	  
-	  
+
 		
 
 	 

@@ -136,7 +136,7 @@
 <div class="row">
 	<div class="col-lg-12 text-center"><h2 class="mb20" style=""><div class="quotes">
     <blockquote>
-      <p>If you just help your customers, or help your buyers buy, and answer the questions that they have in that journey, then you can really succeed.</p>
+      <p>If you just help your customers, or help your buyers buy, and answer the questions that they have in that journey, <br>then you can really succeed.</p>
       <footer>
       
       </footer>
@@ -205,7 +205,7 @@ When you’re a growing business, creating a marketing strategy that’s targe
 <div class="row upset link-hover shape-num justify-content-center">
 <div class="col-lg-4 col-sm-6 mt30 shape-loc wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
-<div class="s-card-icon"><img src="images/icons/branding.svg" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/seo-2.png" alt="service" class="img-fluid"></div>
 
 <p>SEO services</p>
 
@@ -213,7 +213,7 @@ When you’re a growing business, creating a marketing strategy that’s targe
 </div>
 <div class="col-lg-4 col-sm-6 mt30 shape-loc wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
-<div class="s-card-icon"><img src="images/icons/development.svg" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/analysis.png" alt="service" class="img-fluid"></div>
 
 <p>Campaign Marketing</p>
 
@@ -221,7 +221,7 @@ When you’re a growing business, creating a marketing strategy that’s targe
 </div>
 <div class="col-lg-4 col-sm-6 mt30 shape-loc wow fadeInUp" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
 <div class="s-block" data-tilt="" data-tilt-max="5" data-tilt-speed="1000" style="will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
-<div class="s-card-icon"><img src="images/icons/app.svg" alt="service" class="img-fluid"></div>
+<div class="s-card-icon"><img src="images/icons/security-check.png" alt="service" class="img-fluid"></div>
 
 <p>Online reputation management services</p>
 
@@ -244,13 +244,10 @@ When you’re a growing business, creating a marketing strategy that’s targe
 	<div class="col-lg-12 text-center"><h2 class="mb20" style=""></h2></div>
 <div class="col-lg-7" >
 <div class="text-l service-desc- pr25">
-	<span>GROW TRAFFIC &amp; INCREASE REVENUE</span>
+	
 	<h2>SEO Services and it’s benefits</h2>
 	<br>
-<p style="text-align: justify">SEO services allow you to monitor campaign results. When you&#39;re investing time and money
-into a digital marketing strategy, you want to know that it&#39;s working. One of the benefits of
-SEO services is that you can monitor your SEO campaign&#39;s results to see that it&#39;s working for
-your business.</p>
+<p style="text-align: justify">SEO services allow you to monitor campaign results. When you're investing time and money into a digital marketing strategy, you want to know that it's working. One of the benefits of SEO services is that you can monitor your SEO campaign's results to see that it's working for your business.</p>
 	<div class="servie-key-points">
 	  <ul class="key-points mt20">
 		  <li>SEO targets quality traffic</li>
@@ -286,22 +283,24 @@ your business.</p>
 </div>
 	<div class="col-lg-7" >
 <div class="text-l service-desc- pr25">
-	<span>GROW TRAFFIC &amp; INCREASE REVENUE</span>
+	
 	<h2>Campaign Marketing and beneifts</h2>
 	<br>
-	<p style="text-align: justify">Marketing campaigns promote products through different types of media, such as
-		television, radio, print, and online platforms. Campaigns are not solely reliant on advertising
-		and can include demonstrations, video conferencing, and other interactive techniques.</p>
+	<p style="text-align: justify"> Marketing campaigns promote products through different types of media, such as television, radio, print, and online platforms. Campaigns are not solely reliant on advertising and can include demonstrations, video conferencing, and other interactive techniques.</p>
 	<div class="servie-key-points">
 	  <ul class="key-points mt20">
-			  <li>Improves Knowledge Retention</li>
+			  <li>Improves Knowledge Retention.</li>
 			  <li>Creates Excitement And Anticipation.</li>
-			  <li>Bite-sized Learning Isn&#39;t A Chore</li>
-			  <li>Creates Culture Of Learning</li>
+			  <li>Bite-sized Learning Isn&#39;t A Chore.</li>
+			  <li>Creates Culture Of Learning.</li>
+		  		<li>Gets Everyone Involved.</li>
+				<li>Encourages Autonomy. </li>
+				<li>Encourages Knowledge Sharing. </li>
+				<li>Creates Relevant Learning Assets.</li>
 		  </ul>
 		</div>
 
-<a href="#" class="btn-main bg-btn2 lnk mt30">Request A Quote  <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
+
 	
 </div>
 </div>
@@ -316,12 +315,12 @@ your business.</p>
 	<div class="col-lg-12 text-center"><h2 class="mb20" style=""></h2></div>
 <div class="col-lg-7" >
 <div class="text-l service-desc- pr25">
-	<span>GROW TRAFFIC &amp; INCREASE REVENUE</span>
+	
 	<h2>Online Reputation Management Services</h2>
 	<br>
-<p style="text-align: justify">Your online reputation determines how others perceive your business when they search for or
-stumble upon it online. Consequently, online reputation management (ORM) proactively
-influences what information people will find.</p>
+<p style="text-align: justify">Your online reputation determines how others perceive your business when they search for or stumble upon it online. Consequently, online reputation management (ORM) proactively influences what information people will find.<br>
+
+ORM is not only about managing content in search engines, though. It’s also about managing negative business reviews and encouraging happy clients to contribute more positive feedback.</p>
 	<div class="servie-key-points">
 	  <ul class="key-points mt20">
 		  <li>Trust </li>
@@ -345,73 +344,16 @@ influences what information people will find.</p>
 	  <section class="service-block pad-tb ">
 					<div class="container">
 						<div class="row justify-content-center">
-							<div class="col-lg-8">
+							<div class="col-lg-10">
 								<div class="common-heading ptag">
-									<span class="text-radius  text-animation bg-b">We Deliver Our Best</span>
+									
 									<h2>Why WEBINGO for Brand Outreach and Promotion ?</h2>
-									<p class="mb30" >WEBINGO® initiate self driven strategies for Brand Promotion, we promote and popularize
-										your brand among your target customers. We help corporate to realize their full potential to
-										become Popular entities in the industry they represent.</p>
+									<p class="mb30" >WEBINGO® initiate self driven strategies for Brand Promotion, we promote and popularize your brand among your target customers. We help corporate to realize their full potential to become Popular entities in the industry they represent. By taking advantage of enhanced digital media formats, we bring your brand at the doorstep of your targeted audience.<br>
+										Brand is the idea and Branding is the transmission of that idea. Brand management Services is about creating long term value for corporations by building deep bonds with the consumer in a value-creating and enduring manner.</p>
 								</div>
 							</div>
 						</div>
-						<div class="row justify-content-center">
-							<div class="col-lg-4 col-sm-6 mt30  wow fadeIn" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;">
-								<div class="s-block wide-sblock">
-									<div class="s-card-icon"><img src="images/icons/teama.svg" alt="service" class="img-fluid"></div>
-									<div class="s-block-content">
-										<h4>Startup understands</h4>
-										<p>Startup understands another startup’s struggle while dealing with big
-brands.</p>
-									</div>
-								</div>
-							</div>
-							<div class="col-lg-4 col-sm-6 mt30 wow fadeIn" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeIn;">
-								<div class="s-block wide-sblock">
-									<div class="s-card-icon"><img src="images/icons/link.svg" alt="service" class="img-fluid"></div>
-									<div class="s-block-content">
-										<h4>Work experience</h4>
-										<p>We have a work experience of more than 4 years in this industry.</p>
-									</div>
-								</div>
-							</div>
-							<div class="col-lg-4 col-sm-6 mt30 wow fadeIn" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">
-								<div class="s-block wide-sblock">
-									<div class="s-card-icon"><img src="images/icons/tech.svg" alt="service" class="img-fluid"></div>
-									<div class="s-block-content">
-										<h4>Complete Technical Competency</h4>
-										<p>In vel hendrerit nisi. Vestibulum eget risus velit.</p>
-									</div>
-								</div>
-							</div>
-							<div class="col-lg-4 col-sm-6 mt30 wow fadeIn" data-wow-delay="1.1s" style="visibility: visible; animation-delay: 1.1s; animation-name: fadeIn;">
-								<div class="s-block wide-sblock">
-									<div class="s-card-icon"><img src="images/icons/hi.svg" alt="service" class="img-fluid"></div>
-									<div class="s-block-content">
-										<h4>Friendly &amp; Cordial in Nature</h4>
-										<p>In vel hendrerit nisi. Vestibulum eget risus velit.</p>
-									</div>
-								</div>
-							</div>
-							<div class="col-lg-4 col-sm-6 mt30 wow fadeIn" data-wow-delay="1.4s" style="visibility: visible; animation-delay: 1.4s; animation-name: fadeIn;">
-								<div class="s-block wide-sblock">
-									<div class="s-card-icon"><img src="images/icons/badge.svg" alt="service" class="img-fluid"></div>
-									<div class="s-block-content">
-										<h4>Excellent Quality Delivered on Time</h4>
-										<p>In vel hendrerit nisi. Vestibulum eget risus velit.</p>
-									</div>
-								</div>
-							</div>
-							<div class="col-lg-4 col-sm-6 mt30 wow fadeIn" data-wow-delay="1.7s" style="visibility: visible; animation-delay: 1.7s; animation-name: fadeIn;">
-								<div class="s-block wide-sblock">
-									<div class="s-card-icon"><img src="images/icons/tin.svg" alt="service" class="img-fluid"></div>
-									<div class="s-block-content">
-										<h4>Effective &amp; Continuous Communication</h4>
-										<p>In vel hendrerit nisi. Vestibulum eget risus velit.</p>
-									</div>
-								</div>
-							</div>
-						</div>
+					
 						<div class="-cta-btn mt70">
 							<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.8s" style="visibility: visible; animation-delay: 1.8s; animation-name: zoomInDown;">
 								<p >Let us <span>Update</span> </p>
@@ -420,79 +362,117 @@ brands.</p>
 						</div>
 					</div>
 				</section>
-	  
-<section class="why-choos-lg bg-gradient15 pad-tb">
+<section class="service  bg-gradient15 pad-tb">
 <div class="container">
-<div class="row">
-  <div class="col-lg-12">
-    <div class="common-heading text-l">
-      <span>Why Choose Us</span>
-      <h2 class="mb20">How we do it ?</h2>
-      <p>Our brand management team starts with defining your business first. They define it by
-creating a checklist of its core strengths and weaknesses.</p>
-</div>
-</div>
-</div>
-<div class="row">
-  <div class="col-lg-6">
-      <div class="itm-media-object mt40">
-        <div class="media">
-          <img src="images/icons/computers.svg" alt="icon">
-          <div class="media-body">
-            <h4>Core values of your company</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet ligula nec leo elementum semper. Mauris aliquet egestas metus.</p>
+<div class="row justify-content-center">
+        <div class="col-lg-9">
+          <div class="common-heading">
+          
+            <h2 class="mb50">How we do it</h2>
           </div>
-        </div>
-        <div class="media mt40">
-          <img src="images/icons/worker.svg" alt="icon">
-          <div class="media-body">
-            <h4>Understanding the qualities of your services</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet ligula nec leo elementum semper. Mauris aliquet egestas metus.</p>
-          </div>
-        </div>
-        <div class="media mt40">
-          <img src="images/icons/deal.svg" alt="icon">
-          <div class="media-body">
-            <h4>Mission of your company</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet ligula nec leo elementum semper. Mauris aliquet egestas metus.</p>
-          </div>
-        </div>
-		 
+        </div><br>
       </div>
-    </div>
-     <div class="col-lg-6">
-      <div class="itm-media-object mt40">
-        <div class="media">
-          <img src="images/icons/computers.svg" alt="icon">
-          <div class="media-body">
-            <h4> Specialization your company deals in</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet ligula nec leo elementum semper. Mauris aliquet egestas metus.</p>
-          </div>
-        </div>
-        <div class="media mt40">
-          <img src="images/icons/worker.svg" alt="icon">
-          <div class="media-body">
-            <h4>Target market and audience</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet ligula nec leo elementum semper. Mauris aliquet egestas metus.</p>
-          </div>
-        </div>
-        <div class="media mt40">
-          <img src="images/icons/deal.svg" alt="icon">
-          <div class="media-body">
-            <h4>Coding Maestros</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet ligula nec leo elementum semper. Mauris aliquet egestas metus.</p>
-          </div>
-        </div>
-		 
-      </div>
-    </div>    
-  </div>
-</div> 
+	 <div class="row ">
+		 <div class="col-lg-5">
+<div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+<img src="images/launch.png" alt="image" class="img-fluid no-shadow">
+</div>
+</div>
+<div class="col-lg-7"><br>
+	<br>
+<div class="text-l service-desc- pr25">
+	<span style="font-weight:bold;color:#000;">► Step-1</span><br>
+	  <h4 style="color:#050748"></h4>
+	  <h5 class="mt10 mb20"></h5>
+		<p style="text-align:justify;">Our brand management team starts with defining your business first. They define it by creating a checklist of its core strengths and weaknesses. We put together following to collect the best ideas that influence your branding measures:</p>
+		<ul class="key-points mt20"> 
+	  
+      <li style="text-align:justify;">Core values of your company</li>
+		<li style="text-align:justify;">Understanding the qualities of your services</li>
+		<li style="text-align:justify;">Mission of your company</li>
+		<li style="text-align:justify;">Specialization your company deals in</li>
+		<li style="text-align:justify;">Target market and audience</li>
+        
+  </ul>
+	</div><br>
+
+</div>
+
+</div>
+</div>
 </section>
-			
+<section class="service  pad-tb">
+<div class="container">
+<div class="row ">
+<div class="col-lg-7"><br>
+<br>
+<div class="text-l service-desc- pr25">
+	<span style="font-weight:bold;color:#000;">► Step-2</span><br>
+	  <h4 style="color:#050748"></h4>
+	  <h5 class="mt10 mb20"></h5>
+		<p style="text-align:justify;">Our online brand promotion focuses on designing, creating and establishing your online branding presence using digital marketing. Our online brand promotion involves a proven digital marketing mix involving activities known for capturing the attention of the targeted audience. These activities help us to gather key insights as to how to maximize your online presence.</p>
+		<ul class="key-points mt20"> 
+	  <li style="text-align:justify;">Promotion via Media Buying</li>
+	  <li style="text-align:justify;">Site optimization using SEO</li>
+	  <li style="text-align:justify;">Setting up a business website</li>
+	  <li style="text-align:justify;">Paid advertisement using PPC</li>
+	  <li style="text-align:justify;">Defining Set of Required Database</li>
+			<li style="text-align:justify;">Setting up guest blogging account</li>
+	  <li style="text-align:justify;">Corporate image makeover using ORM</li>
+	  
+	 
+	  <li style="text-align:justify;">Online Brand Promotion Using Social Media</li>
+	<li style="text-align:justify;">Direct mailing using E-Mail marketing/SMS-Whatsapp Marketing</li>
+		
+        
+  		</ul>
+	</div>
+	<br>
+
+</div>
+<div class="col-lg-5">
+<div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+<img src="images/launch.png" alt="image" class="img-fluid no-shadow">
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="service bg-gradient15 pad-tb">
+<div class="container">
+<div class="row ">
+<div class="col-lg-5">
+<div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+<img src="images/launch.png" alt="image" class="img-fluid no-shadow">
+</div>
+</div>
+<div class="col-lg-7"><br>
+<br>
+<div class="text-l service-desc- pr25">
+	<span style="font-weight:bold;color:#000;">► Step-3</span><br>
+	  <h4 style="color:#050748"></h4>
+	  <h5 class="mt10 mb20"></h5>
+		<p style="text-align:justify;">We consider SOCIAL MEDIA as one of the most important platform for any Brand Outreach and are being carried nowadays but technically a domain that needs standalone attention. Our social media consultants understand how to galvanize the impact of social channels like to earn massive brand attention. They spotlight major social media channels specially Facebook, Twitter, LinkedIn, YouTube and Pinterest.</p>
+		<ul class="key-points mt20"> 
+	    <li style="text-align:justify;">Brand page creation on social channels</li>
+			<li style="text-align:justify;">Group promotion via social groups and communities</li>
+		<li style="text-align:justify;">Promotion via brand discussions in relevant forums</li>
+		<li style="text-align:justify;">Inviting and influencing more audience via engagement models</li>
+		
+		<li style="text-align:justify;">Promotion by using promotional videos and teasers on YouTube</li>
+  		</ul>
+	<p>Our audience centric brand promotion strategies doesn't only deliver value to your branding initiatives but also gives visibility, brand loyalty, recognition, and business growth. These promotional tactics enable us to push your businesses reach across a worldwide audience.</p>
+	</div>
+	<br>
+
+</div>
+
+</div>
+</div>
+</section>
 		
 
-	  <section class="pad-tb " style="background:#f8f8f8" >
+	  <section class="pad-tb " >
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-lg-8">

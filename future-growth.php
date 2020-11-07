@@ -13,10 +13,10 @@
 	  <link href="css/sideform.css" rel="stylesheet">
 	  <link href="css/breadcum-form.css" rel="stylesheet">
 	  <style>
-		  @media (min-width: 320px) and (max-width: 765px){
-   .hide {
-         display:none;
-	 }
+		  @media (max-width: 480px){
+	   .mobilehide1 {
+			 display:none;
+		 }
 			  
 }
 		  	  @media (min-width: 320px) and (max-width: 765px){
@@ -129,68 +129,17 @@
 </section>
   <!--End Breadcrumb Area-->
   <!--End Breadcrumb--> 
-	  <section class="service-block pad-tb about-agency">
-    <div class="container">
-		<div class="col-lg-12 text-center"><h2 class="mb20" style=""><div class="quotes">
+	
+	   <section class="service pad-tb about-agency  light-dark ">
+<div class="container">
+	<div class="col-lg-12 text-center"><h2 class="mb20" style=""><div class="quotes">
     <blockquote>
-      <p>We are driven by the vision to accelerate Digital Transformation.</p>
+      <p>A BAD PRODUCT CAN BE SOLD BY GREAT MARKETERS BUT A GOOD PRODUCT <br>CAN'T BE SOLD BY BAD MARKETER.</p>
       <footer>
      
       </footer>
     </blockquote>
   </div></h2></div>
-
-      <div class="row justify-content-center">
-        <div class="col-lg-8">
-          <div class="common-heading ptag">
-          
-            <h2>Facilitate and speed up expansion with a clear roadmap.</h2>
-           
-          </div>
-        </div>
-      </div>
-      <div class="row justify-content-center">
-        <div class="col-lg-4 col-sm-6 mt30  wow fadeIn" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;">
-          <div class="s-block wide-sblock">
-            <div class="s-card-icon"><img src="images/png/understanding.png" alt="service" class="img-fluid"></div>
-            <div class="s-block-content">
-              
-            <p style="text-align: justify">Business growth plans provide a timeline for the next one to two years on how revenue can increase.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 mt30 wow fadeIn" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeIn;">
-          <div class="s-block wide-sblock">
-            <div class="s-card-icon"><img src="images/png/create.png" alt="service" class="img-fluid"></div>
-            <div class="s-block-content">
-              
-            <p style="text-align: justify">There are four major types of business growth strategies: market strategy, development strategy, diversification and product strategy.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-sm-6 mt30 wow fadeIn" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">
-          <div class="s-block wide-sblock">
-            <div class="s-card-icon"><img src="images/png/delivery.png" alt="service" class="img-fluid"></div>
-            <div class="s-block-content">
-              
-            <p style="text-align: justify">Studying and researching other business growth plans is essential to develop an effective one for your own investors.
-				</p>
-            </div>
-          </div>
-        </div>
-       
-      </div>
-     <!-- <div class="-cta-btn mt70">
-       <div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.8s" style="visibility: visible; animation-delay: 1.8s; animation-name: zoomInDown;">
-          <p>Let's Start a <span>New Project</span> Together</p>
-          <a href="#" class="btn-main bg-btn2 lnk">Inquire Now<i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
-        </div>
-      </div>-->
-    </div>
-  </section>	
-
-	   <section class="service pad-tb about-agency bg-gradient15 light-dark ">
-<div class="container">
 <div class="row">
 
 <div class="col-lg-7 mb20" style="margin-top: 2%">
@@ -214,6 +163,57 @@ A business growth plan is beneficial to a company as a whole, but the main purpo
 </div>
 </div>
 </section>
+<section class="service-block pad-tb bg-gradient15 about-agency" style="background: #0000AA;">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-8">
+          <div class="common-heading ptag">
+          
+            <h2 style="color:#fff">Facilitate and speed up expansion with a clear roadmap.</h2>
+           
+          </div>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-lg-4 col-sm-6 mt30  wow fadeIn" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;">
+          <div class="s-block wide-sblock">
+            <div class="s-card-icon"><img src="images/png/understanding.png" alt="service" class="img-fluid"></div>
+            <div class="s-block-content">
+              
+            <p style="text-align: justify">Business growth plans provide a timeline for the next one to two years on how revenue can increase. Follow these plans methodically.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30 wow fadeIn" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeIn;">
+          <div class="s-block wide-sblock">
+            <div class="s-card-icon"><img src="images/png/create.png" alt="service" class="img-fluid"></div>
+            <div class="s-block-content">
+              
+            <p style="text-align: justify">There are four major types of business growth strategies: market strategy, development strategy, diversification and product strategy.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mt30 wow fadeIn" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">
+          <div class="s-block wide-sblock">
+            <div class="s-card-icon"><img src="images/png/delivery.png" alt="service" class="img-fluid"></div>
+            <div class="s-block-content">
+              
+            <p style="text-align: justify">Studying and researching other business growth plans is essential to develop an effective one for your own investors to build trust.
+				</p>
+            </div>
+          </div>
+        </div>
+       
+      </div>
+     <!-- <div class="-cta-btn mt70">
+       <div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.8s" style="visibility: visible; animation-delay: 1.8s; animation-name: zoomInDown;">
+          <p>Let's Start a <span>New Project</span> Together</p>
+          <a href="#" class="btn-main bg-btn2 lnk">Inquire Now<i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
+        </div>
+      </div>-->
+    </div>
+  </section>	
+
 	   <section class="why-choos-lg pad-tb  deep-dark">
 <div class="container">
 	<div class="row justify-content-center">
@@ -238,12 +238,13 @@ A business growth plan is beneficial to a company as a whole, but the main purpo
 		</div>
 	</div>
 	<div class="media mt40">
-		<img src="images/icons/technical.png" alt="icon">
+		<img src="images/icons/investment.png" alt="icon">
 		<div class="media-body">
-			<h4>Development</h4>
-			<p style="text-align: justify">This strategy applies to looking into ways to break your products and services into a new market. If you can't find the growth desired in the current market, a goal could be to expand to a new market.</p>
+			<h4>Diversification</h4>
+			<p style="text-align: justify">Diversification refers to expanding both your products and target markets. This strategy is usually best for smaller companies who have the means to be versatile with what products/services they offer and what new markets they attempt to penetrate.</p>
 		</div>
 	</div>
+	
 	
 	
 </div>
@@ -255,14 +256,14 @@ A business growth plan is beneficial to a company as a whole, but the main purpo
 		<img src="images/icons/combination.png" alt="icon">
 		<div class="media-body">
 			<h4>Product strategy</h4>
-			<p style="text-align: justify">This stage is also referred to as product development. For this strategy, the focus is on what new products and services to target your current market. How can you grow your business without entering new markets? What are your customers asking for?</p>
+			<p style="text-align: justify">This stage is also referred to as product development. For this strategy, the focus is on what new products and services to target your current market. How can you grow your business without entering new markets? What are your customers asking for? How do you compete with existing products?</p>
 		</div>
 	</div>
 	<div class="media mt40">
-		<img src="images/icons/investment.png" alt="icon">
+		<img src="images/icons/technical.png" alt="icon">
 		<div class="media-body">
-			<h4>Diversification</h4>
-			<p style="text-align: justify">Diversification refers to expanding both your products and target markets. This strategy is usually best for smaller companies who have the means to be versatile with what products/services they offer and what new markets they attempt to penetrate.</p>
+			<h4>Development</h4>
+			<p style="text-align: justify">This strategy applies to looking into ways to break your products and services into a new market. If you can't find the growth desired in the current market, a goal could be to expand to a new market.</p>
 		</div>
 	</div>
 	
@@ -274,61 +275,60 @@ A business growth plan is beneficial to a company as a whole, but the main purpo
 </div>
 </section>
 	  
-<section class="service pad-tb bg-gradient15">
+<section class="service pad-tb bg-gradient15" style="padding-bottom:10px;">
 <div class="container">
 <div class="row">
 <div class="col-lg-7">
 <div class="text-l service-desc- pr25">
   <h3 style="color:#050748;">Writing a growth plan is very similar to writing a business plan.</h3>
-	<h5 class="mt10 mb20"></h5><p>
+	<h5 class="mt10 mb20"></h5><p style="color:#000;text-align:justify;">
 However, a growth plan focuses specifically on expansion and how you're going to achieve it. Creating a useful plan takes time, but the effort can pay off substantially by keeping your growth efforts on track. A growth plan includes:</p>
-  <ul class="service-point-2 mt20">
+  <ul class="key-service service-point-2 mt20">
   
-    <li># A description of expansion opportunities</li>
-    <li># Financial goals broken down quarterly and yearly</li>
-    <li># A marketing plan of how you will achieve growth</li>
-    <li># A financial plan to determine what capital is accessible during growths</li>
-    <li># A breakdown of your company&#39;s staffing needs and responsibilities</li>
-    <li># Quality Service UX</li>
+    <li>► A description of expansion opportunities</li>
+    <li>► Financial goals broken down quarterly and yearly</li>
+    <li>► A marketing plan of how you will achieve growth</li>
+    <li>► A financial plan to determine what capital is accessible during growths</li>
+    <li>► A breakdown of your company&#39;s staffing needs and responsibilities</li>
+   
   </ul>
-  <a href="#" class="btn-main bg-btn2 lnk mt30">Request A Quote  <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
+ 
 </div>
 </div>
-<div class="col-lg-5">
+<div class="col-lg-5 mobilehide1">
 <div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
 <img src="images/growth.png" alt="image" class="img-fluid no-shadow">
 </div>
 </div>
 </div>
-</div>
+	
+	</div>
 </section>
-	  <section class="service pad-tb">
+	  <section class="service bg-gradient15 pad-tb" style="padding-bottom:10px;">
 <div class="container">
 <div class="row">
-<div class="col-lg-5">
+<div class="col-lg-6 mobilehide1">
 <div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
 <img src="images/growth.png" alt="image" class="img-fluid no-shadow">
 </div>
 </div>
-<div class="col-lg-7">
-<div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-1</span>
-  <h3>Think ahead.</h3>
-	<h4 class="mt10 mb20"></h4>
-	<p style="text-align:justify;">
-The future is always unpredictable, but if you study your target market, your competition and the past growth of your company, you can plan for future expansion. The Small Business Administration (SBA) features a comprehensive guide to writing a business plan for growth.:</p>
-
-</div><br>
-
+<div class="col-lg-6">
 	<div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-2</span>
-  <h4>Discover opportunities for growth.</h4>
+	<span style="font-weight:bold;color:#0000AA;">► Step-1</span>
+  <h4>Find the capital.</h4>
 	<h5 class="mt10 mb20"></h5><p style="text-align:justify;">
-With some homework, you can determine if your expansion opportunities lie in creating new products, adding more services, targeting a new market, opening new locations or going global, among others. Once you've identified your best options for growth, include them in your plan.</p>
+Include detailed information on how you will fund expansion. Business.gov offers a guide on how to prepare your request for funding as well as how to connect with SBA lenders.</p>
+
+</div><br>	
+<div class="text-l service-desc- pr25">
+	<span style="font-weight:bold;color:#0000AA;">► Step-2</span>
+  <h4>Ask for help.</h4>
+	<h5 class="mt10 mb20"></h5><p style="text-align:justify;">
+Getting help from other business owners who have had success in growing a business can be the ultimate tool in writing your growth plan.</p>
 
 </div><br>
 	<div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-3</span>
+	<span style="font-weight:bold;color:#0000AA;">► Step-3</span>
   <h4>Study other growth plans.</h4>
 	<h5 class="mt10 mb20"></h5><p> 
 Before you start writing, review models from some successful companies.</p>
@@ -337,73 +337,64 @@ Before you start writing, review models from some successful companies.</p>
 </div>
 
 </div>
+
 </div>
 </section>
-<section class="service bg-gradient15 pad-tb">
+<section class="service bg-gradient15 pad-tb" style="padding-bottom:10px;">
 <div class="container">
 <div class="row">
-<div class="col-lg-7">
+	
+<div class="col-lg-6">
+	
 <div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-4</span>
-  <h3 style="color:#050748;">Evaluate your team.</h3>
+	<span style="font-weight:bold;color:#0000AA;">► Step-4</span>
+  <h4 style="color:#050748;">Evaluate your team.</h4>
 	<h4 class="mt10 mb20"></h4>
 	<p style="text-align:justify;">
 Your plan should include an assessment of your employees and a look at staffing requirements to meet your growth objectives. By assessing your own skills and those of your employees, you can determine how much growth can be accomplished with your present team. In addition, you'll know when to start hiring additional people and what skill sets to look for in those new hires.</p>
 
 </div><br>
-
 	<div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-5</span>
+	<span style="font-weight:bold;color:#0000AA;">► Step-5</span>
   <h4>Get the word out.</h4>
 	<h5 class="mt10 mb20"></h5><p style="text-align:justify;">
 Growing your business requires a targeted marketing effort. Be sure to outline how you will effectively market your business to encourage growth and how your marketing efforts will evolve as you grow.</p>
 
 </div><br>
+	
+	
 
 </div>
-<div class="col-lg-5">
-<div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
-<img src="images/growth.png" alt="image" class="img-fluid no-shadow">
-</div>
+<div class="col-lg-6">
+	<div class="text-l service-desc- pr25">
+	<span style="font-weight:bold;color:#0000AA;">► Step-6</span>
+  <h4>Think ahead.</h4>
+	<h4 class="mt10 mb20"></h4>
+	<p style="text-align:justify;">
+The future is always unpredictable, but if you study your target market, your competition and the past growth of your company, you can plan for future expansion. The Small Business Administration (SBA) features a comprehensive guide to writing a business plan for growth.:</p>
+
+</div><br>
+
+	<div class="text-l service-desc- pr25">
+	<span style="font-weight:bold;color:#0000AA;">► Step-7</span>
+    <h4>Discover opportunities for growth.</h4>
+	<h5 class="mt10 mb20"></h5><p style="text-align:justify;">
+With some homework, you can determine if your expansion opportunities lie in creating new products, adding more services, targeting a new market, opening new locations or going global, among others. Once you've identified your best options for growth, include them in your plan.</p>
+
+</div><br>
+
 </div>
 </div>
 </div>
 </section>
-	  <section class="service pad-tb">
-<div class="container">
-<div class="row">
-	<div class="col-lg-5">
-<div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
-<img src="images/growth.png" alt="image" class="img-fluid no-shadow">
-</div>
-</div>
-<div class="col-lg-7">
-	<div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-6</span>
-  <h4>Find the capital.</h4>
-	<h5 class="mt10 mb20"></h5><p style="text-align:justify;">
-Include detailed information on how you will fund expansion. Business.gov offers a guide on how to prepare your request for funding as well as how to connect with SBA lenders.</p>
-
-</div><br>	
-	<div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-7</span>
-  <h4>Ask for help.</h4>
-	<h5 class="mt10 mb20"></h5><p style="text-align:justify;">
-Getting help from other business owners who have had success in growing a business can be the ultimate tool in writing your growth plan.</p>
-
-</div><br>
-</div>
-
-</div>
-</div>
-</section>	
+	
 <section class="service bg-gradient15 pad-tb">
 <div class="container">
 <div class="row">
 
-<div class="col-lg-7">
+<div class="col-lg-6">
 	<div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-8</span>
+	<span style="font-weight:bold;color:#0000AA;">► Step-8</span>
   <h4>Start writing.</h4>
 	<h5 class="mt10 mb20"></h5><p style="text-align:justify;">
 Business plan software has streamlined the growth plan process. Most software programs are geared to business plans, but you can modify them to create a plan that focuses on growth.</p>
@@ -417,7 +408,7 @@ Business plan software has streamlined the growth plan process. Most software p
 </div>
 
 </div>
-	<div class="col-lg-5">
+	<div class="col-lg-6 mobilehidekn">
 <div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
 <img src="images/growth.png" alt="image" class="img-fluid no-shadow">
 </div>
@@ -425,7 +416,84 @@ Business plan software has streamlined the growth plan process. Most software p
 </div>
 </div>
 </section>
- 
+ <section class="service-block pad-tb bg-gradient8">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-8">
+				<div class="common-heading ptag">
+					
+					<h2>Why Choose Us?</h2>
+					<p class="mb30" style="color:#fff"></p>
+				</div>
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<div class="col-lg-6 col-sm-6 mt30  wow fadeIn" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;">
+				<div class="s-block wide-sblock">
+					<div class="s-card-icon"><img src="images/icons/expert.png" alt="service" class="img-fluid"></div>
+					<div class="s-block-content">
+						<h4>Our 'Agency as Staff' Approach</h4>
+						<p style="text-align:justify;">Our business model is unique. We’re not just another stand-alone agency offering typical services to clients. Instead, we effectively and seamlessly engage with your company as if we were an extension of your staff.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-sm-6 mt30 wow fadeIn" data-wow-delay="1.7s" style="visibility: visible; animation-delay: 1.7s; animation-name: fadeIn;">
+				<div class="s-block wide-sblock">
+					<div class="s-card-icon"><img src="images/icons/profit.png" alt="service" class="img-fluid"></div>
+					<div class="s-block-content">
+						<h4>We take a one-to-one approach</h4>
+						<p style="text-align:justify;">Our business is built upon our culture of long-term relationship building. We work with you to deliver value On a consistent and ongoing basis. As a result, we have the joy of experiencing a trusted partnership with each client.</p>
+					</div>
+				</div>
+			</div>
+			
+
+			<div class="col-lg-6 col-sm-6 mt30 wow fadeIn" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">
+				<div class="s-block wide-sblock">
+					<div class="s-card-icon"><img src="images/icons/remember.png" alt="service" class="img-fluid"></div>
+					<div class="s-block-content">
+						<h4>We produce results</h4>
+						<p style="text-align:justify;">Ultimately, we know what matters to your bottom line. We work with you to develop your strategy, set KPIs and ensure that we meet your goals. Sterling Kilgore’s clients have come to expect exceptional results–and that’s what they get.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-sm-6 mt30 wow fadeIn" data-wow-delay="1.1s" style="visibility: visible; animation-delay: 1.1s; animation-name: fadeIn;">
+				<div class="s-block wide-sblock">
+					<div class="s-card-icon"><img src="images/icons/friends.png" alt="service" class="img-fluid"></div>
+					<div class="s-block-content">
+						<h4>We understand how you work</h4>
+						<p style="text-align:justify;">
+							We understand budgets, deadlines and, most importantly, the need to deliver an exceptional return on your investment. We have the ability to work effectively with marketing and sales staff and integrate seamlessly into your unique company culture.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-sm-6 mt30 wow fadeIn" data-wow-delay="1.4s" style="visibility: visible; animation-delay: 1.4s; animation-name: fadeIn;">
+				<div class="s-block wide-sblock">
+					<div class="s-card-icon"><img src="images/icons/meeting.png" alt="service" class="img-fluid"></div>
+					<div class="s-block-content">
+						<h4>We know B2B and more </h4>
+						<p style="text-align:justify;">With years serving premier B2B clients, we know what works and we know what will waste your time and money. In today’s digitally connected world, traditional avenues of communication for B2B aren’t enough. B2B and B2C are converging and marketing to individuals is the new norm.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-sm-6 mt30 wow fadeIn" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeIn;">
+				<div class="s-block wide-sblock">
+					<div class="s-card-icon"><img src="images/icons/support-1.png" alt="service" class="img-fluid"></div>
+					<div class="s-block-content">
+						<h4>We have a great team</h4>
+						<p style="text-align:justify;">Our in-house talent represents a balanced mix of agency and enterprise experience with diverse backgrounds, including large agency public relations, social media, corporate communications, journalism, law, nonprofit and software development.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--<div class="-cta-btn mt70">
+			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.8s" style="visibility: visible; animation-delay: 1.8s; animation-name: zoomInDown;">
+				<p>Let's Start a <span>New Project</span> Together</p>
+				<a data-toggle="modal" data-target="#myModal" class="btn-main bg-btn2 lnk" style="color:#fff;">Enquiry Now<i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
+			</div>
+		</div>-->
+	</div>
+</section>
 
 	  <section class="pad-tb " >
     <div class="container">

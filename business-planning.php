@@ -182,68 +182,62 @@ business.</p>
 </div>
 </div>
 <div class="row upset link-hover">
-<div class="col-lg-6 col-md-12 mt30 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-<div class="s-block wide-sblock">
-<div class="s-card-icon-large"><img src="images/logo-design.jpg" alt="service" class="img-fluid"></div>
-<div class="s-block-content-large">
+<div class="col-lg-4 col-md-12 mt30 wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+<div class="s-block">
+            <div class="s-card-icon"><img src="images/icons/friends.png" alt="service" class="img-fluid"></div>
   <h4>Where Are We Now?</h4>
-  <p>Companies begin the planning process by taking a critical look at the business' current
+  <p style="text-align:justify;">Companies begin the planning process by taking a critical look at the business' current
 state. The management team evaluates what the company is doing well and where it is
 falling short.</p>
-</div></div>
 </div>
-<div class="col-lg-6 col-md-12 mt30 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-<div class="s-block wide-sblock">
-  <div class="s-card-icon-large"><img src="images/packaging-design.jpg" alt="service" class="img-fluid"></div>
-  <div class="s-block-content-large">
+</div>
+<div class="col-lg-4 col-md-12 mt30 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+<div class="s-block">
+            <div class="s-card-icon"><img src="images/icons/research-1.png" alt="service" class="img-fluid"></div>
     <h4>What's the Competition Doing?</h4>
-    <p>
-
+    <p style="text-align:justify;">
 Keeping track of competitors is an ongoing process in business, but in the planning cycle
 this information is used to evaluate the strengths and weaknesses of each competitor.</p>
-  </div></div>
-</div>
-<div class="col-lg-6 col-md-12 mt30 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
-  <div class="s-block wide-sblock">
-    <div class="s-card-icon-large"><img src="images/brochure-.jpg" alt="service" class="img-fluid"></div>
-    <div class="s-block-content-large">
-      <h4>What's the <br>Opportunity?</h4>
-      <p>
-Success in business is the result of providing products and services that meet customers’
-needs in a significantly </p>
-    </div></div>
   </div>
- 
-  <div class="col-lg-6 col-md-12 mt30 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
-    <div class="s-block wide-sblock">
-      <div class="s-card-icon-large"><img src="images/flyer-.jpg" alt="service" class="img-fluid"></div>
-      <div class="s-block-content-large">
-        <h4>How Will We Attract and Keep Customers?</h4>
-        <p>
-The marketing plan details which customer groups will be targeted and how these
-customers will be convinced </p>
-      </div></div>
-    </div>
-    <div class="col-lg-6 col-md-12 mt30 wow fadeInUp" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s;">
-      <div class="s-block wide-sblock">
-        <div class="s-card-icon-large"><img src="images/newsletter.jpg" alt="service" class="img-fluid"></div>
-        <div class="s-block-content-large">
+</div>
+	 <div class="col-lg-4 col-md-12 mt30 wow fadeInUp" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s;">
+     <div class="s-block">
+            <div class="s-card-icon"><img src="images/icons/gain.png" alt="service" class="img-fluid"></div>
           <h4>How Will We Allocate Budget?</h4>
-          <p>
+          <p style="text-align:justify;">
 The planning process determines how all the assets of the company will be marshaled to
 achieve the goals and objectives.</p>
-        </div></div>
-      </div>
-      <div class="col-lg-6 col-md-12 mt30 wow fadeInUp" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s;">
-        <div class="s-block wide-sblock">
-          <div class="s-card-icon-large"><img src="images/visit-card.jpg" alt="service" class="img-fluid"></div>
-          <div class="s-block-content-large">
-            <h4>What's the Financial Forecast?</h4>
-            <p>What's the Financial Forecast?
-A financial forecast, sometimes referred to as a company budget, is produced during the
-planning process.</p>
-          </div></div>
         </div>
+      </div>
+      <div class="col-lg-4 col-md-12 mt30 wow fadeInUp" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s;">
+       <div class="s-block">
+            <div class="s-card-icon"><img src="images/icons/stock-market.png" alt="service" class="img-fluid"></div>
+            <h4>What's the Financial Forecast?</h4>
+            <p style="text-align:justify;">What's the Financial Forecast?
+			A financial forecast, sometimes referred to as a company budget, is produced during the
+			planning process.</p>
+          </div>
+        </div>
+<div class="col-lg-4 col-md-12 mt30 wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+<div class="s-block">
+            <div class="s-card-icon"><img src="images/icons/expert.png" alt="service" class="img-fluid"></div>
+      <h4>What's the Opportunity?</h4>
+      <p style="text-align:justify;">
+Success in business is the result of providing products and services that meet customers’
+needs in a significantly </p>
+    </div>
+  </div>
+ 
+  <div class="col-lg-4 col-md-12 mt30 wow fadeInUp" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInUp;">
+   <div class="s-block">
+            <div class="s-card-icon"><img src="images/icons/security-check.png" alt="service" class="img-fluid"></div>
+        <h4>How Will We Attract and Keep Customers?</h4>
+        <p style="text-align:justify;">
+The marketing plan details which customer groups will be targeted and how these
+customers will be convinced </p>
+      </div>
+    </div>
+   
       </div>
       <!--<div class="-cta-btn mt70">
         <div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.4s" style="visibility: visible; animation-delay: 1.4s;">

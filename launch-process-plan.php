@@ -134,7 +134,7 @@
 <div class="row">
 	<div class="col-lg-12 text-center"><h2 class="mb20" style=""><div class="quotes">
     <blockquote>
-      <p>It is as simple as this... branding makes or breaks a business.</p>
+      <p>A good idea is worse than a bad idea because you <br>spend money on a good idea.</p>
       <footer>
       
       </footer>
@@ -146,7 +146,7 @@
 	
 	<h2>Product Launch</h2>
 	<br>
-<p style="text-align: justify">A product launch is a planned effort to bring a new product to market. The goal is to make sure that everyone inside the company, your partners and target customers know about your new product. If you don’t do the product launch effectively, customers won’t be aware of your solution, or may potentially have a bad impression of your product, and you may not hit your revenue and profitability goals..</p>
+<p style="text-align: justify;color:#000;">A product launch is a planned effort to bring a new product to market. The goal is to make sure that everyone inside the company, your partners and target customers know about your new product. If you don’t do the product launch effectively, customers won’t be aware of your solution, or may potentially have a bad impression of your product, and you may not hit your revenue and profitability goals..</p>
 
 <a href="#" class="btn-main bg-btn2 lnk mt30">Request A Quote  <i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
 	
@@ -182,25 +182,111 @@ Product launch plans help you sequence the events that lead up to and even past 
 
 </div>
 </div>
-</section>
-
-	  
+</section>	  
 <section class="service  pad-tb">
 <div class="container">
 <div class="row">
 
 <div class="col-lg-7">
 <div class="text-l service-desc- pr25">
+  <h3 style="color:#050748">Why Prepare a Product Launch Marketing Plan?</h3>
+  <h5 class="mt10 mb20"></h5><p style="color:#000;">A product launch plan consists of strategies and procedures a company may use to develop communication channels for its target audience.<br>
+A marketing plan helps you target your potential customers, their channels of information and ways to target them. Your whole business is dependent on a solid digital marketing strategy and requires planning and timely execution at its launch stage. Having a product launch plan helps you in:</p>
+	<ul class="key-points mt20"> 
+		<li>Evaluating the effectiveness of your product launch marketing strategy.</li>
+		<li>Listing resources you will need to put in place your plan.</li>
+		<li>Knowing your customers and your competitors.</li>
+		<li>Describing your business and its products and services.</li>
+		<li>Identifying the marketing approaches you will use.</li>
+	</ul>
+</div>
+</div>
+<div class="col-lg-5">
+<div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+<img src="images/launch.png" alt="image" class="img-fluid no-shadow">
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="service-block pad-tb bg-gradient8">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-8">
+				<div class="common-heading ptag">
+					
+					<h2>Why Choose Us?</h2>
+					<p class="mb30" style="color:#fff"></p>
+				</div>
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<div class="col-lg-6 col-sm-6 mt30  wow fadeIn" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeIn;">
+				<div class="s-block wide-sblock">
+					<div class="s-card-icon"><img src="images/icons/cost-effective.png" alt="service" class="img-fluid"></div>
+					<div class="s-block-content">
+						<h4>We're flexible and cost-effective</h4>
+						<p style="text-align:justify;">We are responsive and flexible mid-sized research and consulting firm. We adapt as your research needs change, with a speed and cost-effectiveness that larger firms can't match. We're proud to stake our reputation on it!</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-sm-6 mt30 wow fadeIn" data-wow-delay="1.1s" style="visibility: visible; animation-delay: 1.1s; animation-name: fadeIn;">
+				<div class="s-block wide-sblock">
+					<div class="s-card-icon"><img src="images/icons/remember.png" alt="service" class="img-fluid"></div>
+					<div class="s-block-content">
+						<h4>Our impressive track record</h4>
+						<p style="text-align:justify;">We focus on developing strong and lasting client relationship. Currently, we hold many preferred relationships with industry leading organizations that have relied on us repeatedly for their research requirements.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-sm-6 mt30 wow fadeIn" data-wow-delay="1.7s" style="visibility: visible; animation-delay: 1.7s; animation-name: fadeIn;">
+				<div class="s-block wide-sblock">
+					<div class="s-card-icon"><img src="images/icons/quality-1.png" alt="service" class="img-fluid"></div>
+					<div class="s-block-content">
+						<h4>We are committed to quality</h4>
+						<p style="text-align:justify;">We do not settle for anything but the best, and neither should you when it comes to research and consulting. We've worked hard to find the best ways to provide our clients results-oriented and process driven consulting services.</p>
+					</div>
+				</div>
+			</div>
+			
+
+			<div class="col-lg-6 col-sm-6 mt30 wow fadeIn" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">
+				<div class="s-block wide-sblock">
+					<div class="s-card-icon"><img src="images/icons/expert.png" alt="service" class="img-fluid"></div>
+					<div class="s-block-content">
+						<h4>One point of contact - less hassle for you</h4>
+						<p style="text-align:justify;">Dedicated account manager serves as one point of contact to ensure the smooth execution of all your research and consulting project. We have seasoned account managers with the appropriate experience and knowledge to manage client relationship closely and effectively.</p>
+					</div>
+				</div>
+			</div>
+			
+			
+		</div>
+		<!--<div class="-cta-btn mt70">
+			<div class="free-cta-title v-center wow zoomInDown" data-wow-delay="1.8s" style="visibility: visible; animation-delay: 1.8s; animation-name: zoomInDown;">
+				<p>Let's Start a <span>New Project</span> Together</p>
+				<a data-toggle="modal" data-target="#myModal" class="btn-main bg-btn2 lnk" style="color:#fff;">Enquiry Now<i class="fas fa-chevron-right fa-icon"></i><span class="circle"></span></a>
+			</div>
+		</div>-->
+	</div>
+</section>
+	  
+<section class="service  pad-tb" style="padding-bottom:10px;">
+<div class="container">
+<div class="row">
+
+<div class="col-lg-7">
+<div class="text-l service-desc- pr25">
   <h3 style="color:#050748">What size product launch are you working on?</h3>
-  <h5 class="mt10 mb20"></h5><p>Not all products launch and even those that do, don’t all have the same type of product launches. Products that are continually updated such as web-based software or smartphone apps use marketing techniques to remind customers that their product is available.</p>
+  <h5 class="mt10 mb20"></h5><p style="color:#000;">Not all products launch and even those that do, don’t all have the same type of product launches. Products that are continually updated such as web-based software or smartphone apps use marketing techniques to remind customers that their product is available.</p>
  <ul class="key-points mt20"> 
 	  <h4>Product launches come in different sizes and types:</h4>
       <li style="text-align:justify;"><strong>Soft Launch</strong>: When your product sneaks into the market without much fanfare. Often products sold from one business to another launch this way. You don’t get a lot of attention, but maybe your product isn’t quite ready for prime time so it makes more sense for a few customers at a time to have a look.</li>
-	  <li style="text-align:justify;"><strong>Minimal Launch</strong>: for smaller products or small incremental product changes, the minimal launch gets the word out without a huge amount of marketing spend.</li>
-	  <li style="text-align:justify;"><strong>scale Launch</strong>: To let the whole world (OK, your target markets) know about your product, aim for a full-scale launch. You’ll spend a lot of time and energy making this happen. It also has the best chance for success.</li>
+	  <li style="text-align:justify;"><strong>Minimal Launch</strong>: For smaller products or small incremental product changes, the minimal launch gets the word out without a huge amount of marketing spend.</li>
+	  <li style="text-align:justify;"><strong>Scale Launch</strong>: To let the whole world (OK, your target markets) know about your product, aim for a full-scale launch. You’ll spend a lot of time and energy making this happen. It also has the best chance for success.</li>
         
   </ul>
- <p>Decide which type of product launch is best for your product before you start your product launch plan.</p>
+ <p style="color:#000;">Decide which type of product launch is best for your product before you start your product launch plan.</p>
 </div>
 </div>
 <div class="col-lg-5">
@@ -213,116 +299,64 @@ Product launch plans help you sequence the events that lead up to and even past 
 </section>
 	  
 	 	  
-<section class="service  bg-gradient15 pad-tb">
+<section class="service  bg-gradient15 pad-tb" style="padding-bottom:10px;">
 <div class="container">
 <div class="row justify-content-center">
         <div class="col-lg-9">
           <div class="common-heading">
           
-            <h2 class="mb50">Product launches come in different sizes and types:</h2>
+            <h2 class="mb50">Steps to follow while creating a Product Launch Plan</h2>
           </div>
         </div><br>
       </div>
 	 <div class="row ">
-		 <div class="col-lg-5">
+		 <div class="col-lg-6">
 <div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
 <img src="images/launch.png" alt="image" class="img-fluid no-shadow">
 </div>
 </div>
-<div class="col-lg-7"><br>
+<div class="col-lg-6"><br>
 	<br>
 <div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-1</span>
-	  <h4 style="color:#050748">Creating a Product Launch Plan</h4>
+	<span style="font-weight:bold;color:#0000AA;font-size:21px;">► Step-1</span>
+	  <h4 style="color:#050748;font-size:25px;">Creating a Product Launch Plan</h4>
 	  <h5 class="mt10 mb20"></h5>
-		<p style="text-align:justify;">
+		<p style="text-align:justify;color:#000;">
 		Your launch will tell your company and stakeholders what you are planning and how it impacts them. The process of creating it will help you think about the different aspects of the launch so that you are well-prepared to execute on the plan.</p>
 	</div><br>
 	<div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-2</span>
-  	<h4 style="color:#050748">Recognizing the Importance of the Product Launch Plan</h4>
-  	<h5 class="mt20 mb20"></h5>
-		<p style="text-align:justify;">
-		As with all things in life, spending some time upfront planning your launch will likely pay off with great success. If you have an idea of what your goals are and have a well-thought through plan, you’re at least headed in the right direction.
-		Your Market Requirements (MRD), Go-To-Market Strategy and Product Requirements (PRD) documents are good sources for the topics needed at the beginning of each product launch plan.</p>
+	<span style="font-weight:bold;color:#0000AA;font-size:21px;">► Step-2</span>
+	  <h4 style="color:#050748;font-size:25px;">Product Description</h4>
+	  <h5 class="mt10 mb20"></h5>
+		<p style="text-align:justify;color:#000;">
+			Include a brief description of the product (2-3 paragraphs) that describes what the product is, the main features and benefits it provides and how it solves customer problems.</p>
+	</div><br>
 	
-	
-	
- <!--<ul class="key-points mt20"> 
-	  <h4>Product launches come in different sizes and types:</h4>
-      <li style="text-align:justify;"><strong>Soft Launch</strong>: When your product sneaks into the market without much fanfare. Often products sold from one business to another launch this way. You don’t get a lot of attention, but maybe your product isn’t quite ready for prime time so it makes more sense for a few customers at a time to have a look.</li>
-	  <li style="text-align:justify;"><strong>Minimal Launch</strong>: for smaller products or small incremental product changes, the minimal launch gets the word out without a huge amount of marketing spend.</li>
-	  <li style="text-align:justify;"><strong>scale Launch</strong>: To let the whole world (OK, your target markets) know about your product, aim for a full-scale launch. You’ll spend a lot of time and energy making this happen. It also has the best chance for success.</li>
-        
-  </ul>-->
-
-</div>
 </div>
 
 </div>
 </div>
 </section>	
- <section class="service  pad-tb">
+ <section class="service  pad-tb bg-gradient15" style="padding-bottom:10px;">
 <div class="container">
 
 	 <div class="row ">
 		
-<div class="col-lg-7">
+<div class="col-lg-6">
 <div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-3</span>
-	  <h4 style="color:#050748">Filling Out the Product Launch Plan Template</h4>
+	<span style="font-weight:bold;color:#0000AA;font-size:21px;">► Step-3</span>
+	 <h4 style="color:#050748;font-size:25px;">Filling Out the Product Launch Plan Template</h4>
 	  <h5 class="mt10 mb20"></h5>
-		<p style="text-align:justify;">
-A product launch plan template includes a brief back story to the launch. Most of the launch plan is a long list of launch activities and reasons for each of them. The better you can tell the overall launch story and how all the pieces fit together, the better you can defend your launch plan and the budget you’ll need to execute the launch properly..</p>
+		<p style="text-align:justify;color:#000;">
+			A product launch plan template includes a brief back story to the launch. Most of the launch plan is a long list of launch activities and reasons for each of them. The better you can tell the overall launch story and how all the pieces fit together, the better you can defend your launch plan and the budget you’ll need to execute the launch properly..</p>
 	</div><br>
-	<div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-4</span>
-  	<h4 style="color:#050748">Executive Summaryn</h4>
-  	<h5 class="mt20 mb20"></h5>
-		<ul class="key-points mt20"> 
-			<li>Summarize the goals of your campaign: company messages, product audience, goals for the launch, and how you’ll measure the launch success. Identify key features of the product you’re launching here, including features, functions, and system requirements.</li>
-			<li>Complete this after everything else is written..</li>
-		</ul>
-	
-	
- <!--<ul class="key-points mt20"> 
-	  <h4>Product launches come in different sizes and types:</h4>
-      <li style="text-align:justify;"><strong>Soft Launch</strong>: When your product sneaks into the market without much fanfare. Often products sold from one business to another launch this way. You don’t get a lot of attention, but maybe your product isn’t quite ready for prime time so it makes more sense for a few customers at a time to have a look.</li>
-	  <li style="text-align:justify;"><strong>Minimal Launch</strong>: for smaller products or small incremental product changes, the minimal launch gets the word out without a huge amount of marketing spend.</li>
-	  <li style="text-align:justify;"><strong>scale Launch</strong>: To let the whole world (OK, your target markets) know about your product, aim for a full-scale launch. You’ll spend a lot of time and energy making this happen. It also has the best chance for success.</li>
-        
-  </ul>-->
 
 </div>
-</div>
- <div class="col-lg-5">
-<div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
-<img src="images/launch.png" alt="image" class="img-fluid no-shadow">
-</div>
-</div>
-</div>
-</div>
-</section>	  
- <section class="service  bg-gradient15 pad-tb">
-<div class="container">
+<div class="col-lg-6">
 
-	 <div class="row ">
- <div class="col-lg-5">
-<div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
-<img src="images/launch.png" alt="image" class="img-fluid no-shadow">
-</div>
-</div>		
-<div class="col-lg-7">
-<div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-5</span>
-	  <h4 style="color:#050748">Product Description</h4>
-	  <h5 class="mt10 mb20"></h5>
-		<p style="text-align:justify;">
-Include a brief description of the product (2-3 paragraphs) that describes what the product is, the main features and benefits it provides and how it solves customer problems.</p>
-	</div><br>
 	<div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-6</span>
-  	<h4 style="color:#050748">Target Audience</h4>
+	<span style="font-weight:bold;color:#0000AA;font-size:21px;">► Step-4</span>
+  	<h4 style="color:#050748;font-size:25px;">Target Audience</h4>
   	<h5 class="mt20 mb20"></h5>
 		<ul class="key-points mt20"> 
 			<li>Who is your target customer?</li>
@@ -330,54 +364,40 @@ Include a brief description of the product (2-3 paragraphs) that describes what 
 			<li>What is your target market segment?</li>
 			<li>What business segments are you targeting?</li>
 		</ul>
-	
-	
- <!--<ul class="key-points mt20"> 
-	  <h4>Product launches come in different sizes and types:</h4>
-      <li style="text-align:justify;"><strong>Soft Launch</strong>: When your product sneaks into the market without much fanfare. Often products sold from one business to another launch this way. You don’t get a lot of attention, but maybe your product isn’t quite ready for prime time so it makes more sense for a few customers at a time to have a look.</li>
-	  <li style="text-align:justify;"><strong>Minimal Launch</strong>: for smaller products or small incremental product changes, the minimal launch gets the word out without a huge amount of marketing spend.</li>
-	  <li style="text-align:justify;"><strong>scale Launch</strong>: To let the whole world (OK, your target markets) know about your product, aim for a full-scale launch. You’ll spend a lot of time and energy making this happen. It also has the best chance for success.</li>
-        
-  </ul>-->
+
+
+</div><br>
 
 </div>
-</div>
-
 </div>
 </div>
 </section>	  
-<section class="service  pad-tb">
+  
+<section class="service  bg-gradient15 pad-tb" style="padding-bottom:10px;">
 <div class="container">
 
 	 <div class="row ">
 		
-<div class="col-lg-7">
+<div class="col-lg-6">
 <div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-7</span>
-	  <h4 style="color:#050748">Key Messages</h4>
+	<span style="font-weight:bold;color:#0000AA;font-size:21px;">► Step-5</span>
+	  <h4 style="color:#050748;font-size:25px;">Key Messages</h4>
 	  <h5 class="mt10 mb20"></h5>
-		<p style="text-align:justify;">
+		<p style="text-align:justify;color:#000;">
 What are your key messages for the product? For your company? This information comes from the messaging platform based on your product positioning.</p>
 	</div><br>
 	<div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-8</span>
-  	<h4 style="color:#050748">Critical Success Factors</h4>
+	<span style="font-weight:bold;color:#0000AA;font-size:21px;">► Step-6</span>
+  	<h4 style="color:#050748;font-size:25px;">Critical Success Factors</h4>
   	<h5 class="mt20 mb20"></h5>
-		<p style="text-align:justify;">
+		<p style="text-align:justify;color:#000;">
 Include the specific criteria that indicate that the launch has been a success. Include concrete and measurable goals such as revenue targets, number of partners carrying the product, and channel availability.</p>
 	
-	
- <!--<ul class="key-points mt20"> 
-	  <h4>Product launches come in different sizes and types:</h4>
-      <li style="text-align:justify;"><strong>Soft Launch</strong>: When your product sneaks into the market without much fanfare. Often products sold from one business to another launch this way. You don’t get a lot of attention, but maybe your product isn’t quite ready for prime time so it makes more sense for a few customers at a time to have a look.</li>
-	  <li style="text-align:justify;"><strong>Minimal Launch</strong>: for smaller products or small incremental product changes, the minimal launch gets the word out without a huge amount of marketing spend.</li>
-	  <li style="text-align:justify;"><strong>scale Launch</strong>: To let the whole world (OK, your target markets) know about your product, aim for a full-scale launch. You’ll spend a lot of time and energy making this happen. It also has the best chance for success.</li>
-        
-  </ul>-->
+
 
 </div>
 </div>
- <div class="col-lg-5">
+ <div class="col-lg-6">
 <div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
 <img src="images/launch.png" alt="image" class="img-fluid no-shadow">
 </div>
@@ -385,98 +405,73 @@ Include the specific criteria that indicate that the launch has been a success. 
 </div>
 </div>
 </section>	
-<section class="service bg-gradient15  pad-tb">
+<section class="service bg-gradient15  pad-tb " style="padding-bottom:10px;">
 <div class="container">
 
 	 <div class="row ">
- <div class="col-lg-5">
-<div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
-<img src="images/launch.png" alt="image" class="img-fluid no-shadow">
-</div>
-</div>		
-<div class="col-lg-7">
+		
+<div class="col-lg-6">
 <div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-9</span>
-	  <h4 style="color:#050748">Critical dates and milestones</h4>
+	<span style="font-weight:bold;color:#0000AA;font-size:21px;">► Step-7</span>
+	  <h4 style="color:#050748;font-size:25px;">Critical dates and milestones</h4>
 	  <h5 class="mt10 mb20"></h5>
-		<p style="text-align:justify;">
+		<p style="text-align:justify;color:#000;">
 List all critical dates and milestones including product availability, finalizing product name, budget, positioning, and press activities.</p>
 	</div><br>
 	<div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-10</span>
-	  <h4 style="color:#050748">Milestones</h4>
+	<span style="font-weight:bold;color:#0000AA;font-size:21px;">► Step-8</span>
+	  <h4 style="color:#050748;font-size:25px;">Milestones</h4>
 	  <h5 class="mt10 mb20"></h5>
-		<p style="text-align:justify;">
+		<p style="text-align:justify;color:#000;">
 List an overall timeline of all activities in the launch plan that need to happen.</p>
 	</div><br>
 	<div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-11</span>
-  	<h4 style="color:#050748">Internal commitments and owners</h4>
+	<span style="font-weight:bold;color:#0000AA;font-size:21px;">► Step-9</span>
+  	<h4 style="color:#050748;font-size:25px;">Internal commitments and owners</h4>
   	<h5 class="mt20 mb20"></h5>
-		<p style="text-align:justify;">
+		<p style="text-align:justify;color:#000;">
 Who is allocated to support customers through the beta program?</p>
-	
-	
- <!--<ul class="key-points mt20"> 
-	  <h4>Product launches come in different sizes and types:</h4>
-      <li style="text-align:justify;"><strong>Soft Launch</strong>: When your product sneaks into the market without much fanfare. Often products sold from one business to another launch this way. You don’t get a lot of attention, but maybe your product isn’t quite ready for prime time so it makes more sense for a few customers at a time to have a look.</li>
-	  <li style="text-align:justify;"><strong>Minimal Launch</strong>: for smaller products or small incremental product changes, the minimal launch gets the word out without a huge amount of marketing spend.</li>
-	  <li style="text-align:justify;"><strong>scale Launch</strong>: To let the whole world (OK, your target markets) know about your product, aim for a full-scale launch. You’ll spend a lot of time and energy making this happen. It also has the best chance for success.</li>
-        
-  </ul>-->
+
 
 </div>
 </div>
-
-</div>
-</div>
-</section>	
- <section class="service  pad-tb">
-<div class="container">
-
-	 <div class="row ">
-	
-<div class="col-lg-7">
+<div class="col-lg-6">
 <div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-12</span>
-	  <h4 style="color:#050748">Marketing communications</h4>
+	<span style="font-weight:bold;color:#0000AA;font-size:21px;">► Step-10</span>
+	  <h4 style="color:#050748;font-size:25px;">Marketing communications</h4>
 	  <h5 class="mt10 mb20"></h5>
-		<p style="text-align:justify;">
+		<p style="text-align:justify;color:#000;">
 What key marketing vehicles will work best for you given your budgetary constraints and your target audience? This should include:</p>
 	</div>
 <ul class="key-points mt20" style="column-count:2;"> 
 	 
-      <li>Collateral materials: Datasheets, brochures</li>
+      
 		<li>Press events</li>
 		<li>Tradeshows</li>
 		<li>Publications</li>
 		<li>Product evaluations</li>
 		<li>Online communications</li>
 		<li>Company web pages</li>
-        
+        <li>Collateral materials: Datasheets, brochures</li>
   </ul>
 </div>
- <div class="col-lg-5">
-<div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
-<img src="images/launch.png" alt="image" class="img-fluid no-shadow">
-</div>
-</div>	
 </div>
 </div>
-</section>	  
- <section class="service bg-gradient15  pad-tb">
+</section>	
+	  
+ <section class="service bg-gradient15  pad-tb"  style="padding-bottom:10px;">
 <div class="container">
 
 	 <div class="row ">
- <div class="col-lg-5">
+ <div class="col-lg-6">
 <div class="single-image wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
 <img src="images/launch.png" alt="image" class="img-fluid no-shadow">
 </div>
 </div>	
-<div class="col-lg-7">
+<div class="col-lg-6">
 <div class="text-l service-desc- pr25">
-	<span style="font-weight:bold;color:#000;">► Step-13</span>
-	  <h4 style="color:#050748">Other</h4>
+	<span style="font-weight:bold;color:#0000AA;font-size:21px;">► Step-11</span>
+	  <h4 style="color:#050748;font-size:25px;">Other</h4>
 	  <h5 class="mt10 mb20"></h5>
 		
 	</div>
@@ -489,13 +484,47 @@ What key marketing vehicles will work best for you given your budgetary constrai
 		<li>Core team members.</li>
         
   </ul>
-	<p style="text-align:justify;">A product launch is exciting. Make sure to add elements of market excitement in your plan for the best results. Good luck! </p>
+	<p style="text-align:justify;color:#000;">A product launch is exciting. Make sure to add elements of market excitement in your plan for the best results. Good luck! </p>
 </div>
 	
 </div>
 </div>
 </section>	  
+<section class="service  pad-tb bg-gradient15">
+<div class="container">
 
+	 <div class="row ">
+		
+<div class="col-lg-6">
+
+	<div class="text-l service-desc- pr25">
+	<span style="font-weight:bold;color:#0000AA;font-size:21px;">► Step-12</span>
+  	<h4 style="color:#050748;font-size:25px;">Executive Summary</h4>
+  	<h5 class="mt20 mb20"></h5>
+		<ul class="key-points mt20"> 
+			<li style="text-align:justify;">Summarize the goals of your campaign: company messages, product audience, goals for the launch, and how you’ll measure the launch success. Identify key features of the product you’re launching here, including features, functions, and system requirements.</li>
+			<li>Complete this after everything else is written..</li>
+		</ul>
+	
+</div>
+</div>
+<div class="col-lg-6">
+
+	<div class="text-l service-desc- pr25">
+	<span style="font-weight:bold;color:#0000AA;font-size:21px;">► Step-13</span>
+  	<h4 style="color:#050748;font-size:25px;">Recognizing the Importance of the Product Launch Plan</h4>
+  	<h5 class="mt20 mb20"></h5>
+		<p style="text-align:justify;color:#000;">
+		As with all things in life, spending some time upfront planning your launch will likely pay off with great success. If you have an idea of what your goals are and have a well-thought through plan, you’re at least headed in the right direction.
+		Your Market Requirements (MRD), Go-To-Market Strategy and Product Requirements (PRD) documents are good sources for the topics needed at the beginning of each product launch plan.</p>
+	
+
+</div>
+</div>
+</div>
+</div>
+</section>	  
+ 
 	<!--<section class="service-block  about-agency pad-tb" style="padding-top:50px">
 <div class="container">
 	

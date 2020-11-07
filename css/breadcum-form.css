@@ -21,6 +21,9 @@
 	.counter-span1{font-weight:900;font-size:11px;}
 	.counter1{    padding-left: 70px;
     margin-bottom: 12px;}
+	.mobilehide {
+         display:none;
+	 }
 }
 /*breadcum-counter*/
 /*logo page mobile view*/
